@@ -1,0 +1,14 @@
+{
+    "timestamp": "2026-06-09 18:23:01.312044",
+    "metrics": {
+        "MAE": 23.02992569434811,
+        "MAPE": 8.933861272832438,
+        "Accuracy": 91.06613872716756
+    },
+    "forecast_summary": {
+        "average": 226.29882235527037,
+        "max": 235.93143546581268,
+        "min": 205.50718063116074
+    },
+    "recommendation": "Maintain inventory"
+}

@@ -1,0 +1,1826 @@
+date,product_id,product_name,category,sales,current_stock
+2025-01-01,P1,iPhone 14,Electronics,251,315
+2025-01-02,P1,iPhone 14,Electronics,265,315
+2025-01-03,P1,iPhone 14,Electronics,271,315
+2025-01-04,P1,iPhone 14,Electronics,264,315
+2025-01-05,P1,iPhone 14,Electronics,241,315
+2025-01-06,P1,iPhone 14,Electronics,231,315
+2025-01-07,P1,iPhone 14,Electronics,240,315
+2025-01-08,P1,iPhone 14,Electronics,254,315
+2025-01-09,P1,iPhone 14,Electronics,266,315
+2025-01-10,P1,iPhone 14,Electronics,273,315
+2025-01-11,P1,iPhone 14,Electronics,260,315
+2025-01-12,P1,iPhone 14,Electronics,242,315
+2025-01-13,P1,iPhone 14,Electronics,234,315
+2025-01-14,P1,iPhone 14,Electronics,232,315
+2025-01-15,P1,iPhone 14,Electronics,248,315
+2025-01-16,P1,iPhone 14,Electronics,268,315
+2025-01-17,P1,iPhone 14,Electronics,270,315
+2025-01-18,P1,iPhone 14,Electronics,264,315
+2025-01-19,P1,iPhone 14,Electronics,243,315
+2025-01-20,P1,iPhone 14,Electronics,231,315
+2025-01-21,P1,iPhone 14,Electronics,244,315
+2025-01-22,P1,iPhone 14,Electronics,255,315
+2025-01-23,P1,iPhone 14,Electronics,271,315
+2025-01-24,P1,iPhone 14,Electronics,271,315
+2025-01-25,P1,iPhone 14,Electronics,263,315
+2025-01-26,P1,iPhone 14,Electronics,248,315
+2025-01-27,P1,iPhone 14,Electronics,234,315
+2025-01-28,P1,iPhone 14,Electronics,242,315
+2025-01-29,P1,iPhone 14,Electronics,255,315
+2025-01-30,P1,iPhone 14,Electronics,272,315
+2025-01-31,P1,iPhone 14,Electronics,275,315
+2025-02-01,P1,iPhone 14,Electronics,272,315
+2025-02-02,P1,iPhone 14,Electronics,250,315
+2025-02-03,P1,iPhone 14,Electronics,236,315
+2025-02-04,P1,iPhone 14,Electronics,246,315
+2025-02-05,P1,iPhone 14,Electronics,255,315
+2025-02-06,P1,iPhone 14,Electronics,276,315
+2025-02-07,P1,iPhone 14,Electronics,273,315
+2025-02-08,P1,iPhone 14,Electronics,265,315
+2025-02-09,P1,iPhone 14,Electronics,252,315
+2025-02-10,P1,iPhone 14,Electronics,243,315
+2025-02-11,P1,iPhone 14,Electronics,246,315
+2025-02-12,P1,iPhone 14,Electronics,261,315
+2025-02-13,P1,iPhone 14,Electronics,276,315
+2025-02-14,P1,iPhone 14,Electronics,277,315
+2025-02-15,P1,iPhone 14,Electronics,268,315
+2025-02-16,P1,iPhone 14,Electronics,252,315
+2025-02-17,P1,iPhone 14,Electronics,246,315
+2025-02-18,P1,iPhone 14,Electronics,248,315
+2025-02-19,P1,iPhone 14,Electronics,258,315
+2025-02-20,P1,iPhone 14,Electronics,280,315
+2025-02-21,P1,iPhone 14,Electronics,282,315
+2025-02-22,P1,iPhone 14,Electronics,270,315
+2025-02-23,P1,iPhone 14,Electronics,257,315
+2025-02-24,P1,iPhone 14,Electronics,248,315
+2025-02-25,P1,iPhone 14,Electronics,252,315
+2025-02-26,P1,iPhone 14,Electronics,262,315
+2025-02-27,P1,iPhone 14,Electronics,280,315
+2025-02-28,P1,iPhone 14,Electronics,286,315
+2025-03-01,P1,iPhone 14,Electronics,277,315
+2025-03-02,P1,iPhone 14,Electronics,256,315
+2025-03-03,P1,iPhone 14,Electronics,246,315
+2025-03-04,P1,iPhone 14,Electronics,248,315
+2025-03-05,P1,iPhone 14,Electronics,263,315
+2025-03-06,P1,iPhone 14,Electronics,285,315
+2025-03-07,P1,iPhone 14,Electronics,291,315
+2025-03-08,P1,iPhone 14,Electronics,276,315
+2025-03-09,P1,iPhone 14,Electronics,262,315
+2025-03-10,P1,iPhone 14,Electronics,250,315
+2025-03-11,P1,iPhone 14,Electronics,251,315
+2025-03-12,P1,iPhone 14,Electronics,270,315
+2025-03-13,P1,iPhone 14,Electronics,289,315
+2025-03-14,P1,iPhone 14,Electronics,289,315
+2025-03-15,P1,iPhone 14,Electronics,283,315
+2025-03-16,P1,iPhone 14,Electronics,253,315
+2025-03-17,P1,iPhone 14,Electronics,253,315
+2025-03-18,P1,iPhone 14,Electronics,255,315
+2025-03-19,P1,iPhone 14,Electronics,270,315
+2025-03-20,P1,iPhone 14,Electronics,287,315
+2025-03-21,P1,iPhone 14,Electronics,285,315
+2025-03-22,P1,iPhone 14,Electronics,279,315
+2025-03-23,P1,iPhone 14,Electronics,264,315
+2025-03-24,P1,iPhone 14,Electronics,257,315
+2025-03-25,P1,iPhone 14,Electronics,255,315
+2025-03-26,P1,iPhone 14,Electronics,270,315
+2025-03-27,P1,iPhone 14,Electronics,287,315
+2025-03-28,P1,iPhone 14,Electronics,295,315
+2025-03-29,P1,iPhone 14,Electronics,283,315
+2025-03-30,P1,iPhone 14,Electronics,263,315
+2025-03-31,P1,iPhone 14,Electronics,256,315
+2025-04-01,P1,iPhone 14,Electronics,259,315
+2025-04-02,P1,iPhone 14,Electronics,277,315
+2025-04-03,P1,iPhone 14,Electronics,288,315
+2025-04-04,P1,iPhone 14,Electronics,294,315
+2025-04-05,P1,iPhone 14,Electronics,283,315
+2025-04-06,P1,iPhone 14,Electronics,263,315
+2025-04-07,P1,iPhone 14,Electronics,257,315
+2025-04-08,P1,iPhone 14,Electronics,261,315
+2025-04-09,P1,iPhone 14,Electronics,276,315
+2025-04-10,P1,iPhone 14,Electronics,292,315
+2025-04-11,P1,iPhone 14,Electronics,292,315
+2025-04-12,P1,iPhone 14,Electronics,285,315
+2025-04-13,P1,iPhone 14,Electronics,268,315
+2025-04-14,P1,iPhone 14,Electronics,256,315
+2025-04-15,P1,iPhone 14,Electronics,262,315
+2025-04-16,P1,iPhone 14,Electronics,280,315
+2025-04-17,P1,iPhone 14,Electronics,300,315
+2025-04-18,P1,iPhone 14,Electronics,299,315
+2025-04-19,P1,iPhone 14,Electronics,289,315
+2025-04-20,P1,iPhone 14,Electronics,271,315
+2025-04-21,P1,iPhone 14,Electronics,254,315
+2025-04-22,P1,iPhone 14,Electronics,264,315
+2025-04-23,P1,iPhone 14,Electronics,280,315
+2025-04-24,P1,iPhone 14,Electronics,304,315
+2025-04-25,P1,iPhone 14,Electronics,300,315
+2025-04-26,P1,iPhone 14,Electronics,291,315
+2025-04-27,P1,iPhone 14,Electronics,273,315
+2025-04-28,P1,iPhone 14,Electronics,259,315
+2025-04-29,P1,iPhone 14,Electronics,270,315
+2025-04-30,P1,iPhone 14,Electronics,284,315
+2025-05-01,P1,iPhone 14,Electronics,300,315
+2025-05-02,P1,iPhone 14,Electronics,300,315
+2025-05-03,P1,iPhone 14,Electronics,296,315
+2025-05-04,P1,iPhone 14,Electronics,270,315
+2025-05-05,P1,iPhone 14,Electronics,266,315
+2025-05-06,P1,iPhone 14,Electronics,275,315
+2025-05-07,P1,iPhone 14,Electronics,281,315
+2025-05-08,P1,iPhone 14,Electronics,298,315
+2025-05-09,P1,iPhone 14,Electronics,304,315
+2025-05-10,P1,iPhone 14,Electronics,292,315
+2025-05-11,P1,iPhone 14,Electronics,272,315
+2025-05-12,P1,iPhone 14,Electronics,266,315
+2025-05-13,P1,iPhone 14,Electronics,267,315
+2025-05-14,P1,iPhone 14,Electronics,287,315
+2025-05-15,P1,iPhone 14,Electronics,299,315
+2025-05-16,P1,iPhone 14,Electronics,311,315
+2025-05-17,P1,iPhone 14,Electronics,293,315
+2025-05-18,P1,iPhone 14,Electronics,277,315
+2025-05-19,P1,iPhone 14,Electronics,270,315
+2025-05-20,P1,iPhone 14,Electronics,268,315
+2025-05-21,P1,iPhone 14,Electronics,289,315
+2025-05-22,P1,iPhone 14,Electronics,308,315
+2025-05-23,P1,iPhone 14,Electronics,303,315
+2025-05-24,P1,iPhone 14,Electronics,298,315
+2025-05-25,P1,iPhone 14,Electronics,281,315
+2025-05-26,P1,iPhone 14,Electronics,272,315
+2025-05-27,P1,iPhone 14,Electronics,270,315
+2025-05-28,P1,iPhone 14,Electronics,286,315
+2025-05-29,P1,iPhone 14,Electronics,307,315
+2025-05-30,P1,iPhone 14,Electronics,311,315
+2025-05-31,P1,iPhone 14,Electronics,300,315
+2025-06-01,P1,iPhone 14,Electronics,283,315
+2025-06-02,P1,iPhone 14,Electronics,270,315
+2025-06-03,P1,iPhone 14,Electronics,277,315
+2025-06-04,P1,iPhone 14,Electronics,293,315
+2025-06-05,P1,iPhone 14,Electronics,306,315
+2025-06-06,P1,iPhone 14,Electronics,317,315
+2025-06-07,P1,iPhone 14,Electronics,303,315
+2025-06-08,P1,iPhone 14,Electronics,281,315
+2025-06-09,P1,iPhone 14,Electronics,276,315
+2025-06-10,P1,iPhone 14,Electronics,275,315
+2025-06-11,P1,iPhone 14,Electronics,296,315
+2025-06-12,P1,iPhone 14,Electronics,313,315
+2025-06-13,P1,iPhone 14,Electronics,311,315
+2025-06-14,P1,iPhone 14,Electronics,306,315
+2025-06-15,P1,iPhone 14,Electronics,287,315
+2025-06-16,P1,iPhone 14,Electronics,278,315
+2025-06-17,P1,iPhone 14,Electronics,285,315
+2025-06-18,P1,iPhone 14,Electronics,295,315
+2025-06-19,P1,iPhone 14,Electronics,309,315
+2025-06-20,P1,iPhone 14,Electronics,313,315
+2025-06-21,P1,iPhone 14,Electronics,303,315
+2025-06-22,P1,iPhone 14,Electronics,288,315
+2025-06-23,P1,iPhone 14,Electronics,279,315
+2025-06-24,P1,iPhone 14,Electronics,282,315
+2025-06-25,P1,iPhone 14,Electronics,300,315
+2025-06-26,P1,iPhone 14,Electronics,314,315
+2025-06-27,P1,iPhone 14,Electronics,322,315
+2025-06-28,P1,iPhone 14,Electronics,306,315
+2025-06-29,P1,iPhone 14,Electronics,298,315
+2025-06-30,P1,iPhone 14,Electronics,281,315
+2025-07-01,P1,iPhone 14,Electronics,281,315
+2025-07-02,P1,iPhone 14,Electronics,296,315
+2025-07-03,P1,iPhone 14,Electronics,317,315
+2025-07-04,P1,iPhone 14,Electronics,319,315
+2025-07-05,P1,iPhone 14,Electronics,311,315
+2025-07-06,P1,iPhone 14,Electronics,293,315
+2025-07-07,P1,iPhone 14,Electronics,281,315
+2025-07-08,P1,iPhone 14,Electronics,283,315
+2025-07-09,P1,iPhone 14,Electronics,297,315
+2025-07-10,P1,iPhone 14,Electronics,316,315
+2025-07-11,P1,iPhone 14,Electronics,324,315
+2025-07-12,P1,iPhone 14,Electronics,312,315
+2025-07-13,P1,iPhone 14,Electronics,290,315
+2025-07-14,P1,iPhone 14,Electronics,284,315
+2025-07-15,P1,iPhone 14,Electronics,289,315
+2025-07-16,P1,iPhone 14,Electronics,301,315
+2025-07-17,P1,iPhone 14,Electronics,320,315
+2025-07-18,P1,iPhone 14,Electronics,324,315
+2025-07-19,P1,iPhone 14,Electronics,309,315
+2025-07-20,P1,iPhone 14,Electronics,297,315
+2025-07-21,P1,iPhone 14,Electronics,287,315
+2025-07-22,P1,iPhone 14,Electronics,293,315
+2025-07-23,P1,iPhone 14,Electronics,308,315
+2025-07-24,P1,iPhone 14,Electronics,317,315
+2025-07-25,P1,iPhone 14,Electronics,323,315
+2025-07-26,P1,iPhone 14,Electronics,316,315
+2025-07-27,P1,iPhone 14,Electronics,299,315
+2025-07-28,P1,iPhone 14,Electronics,289,315
+2025-07-29,P1,iPhone 14,Electronics,303,315
+2025-07-30,P1,iPhone 14,Electronics,309,315
+2025-07-31,P1,iPhone 14,Electronics,327,315
+2025-08-01,P1,iPhone 14,Electronics,330,315
+2025-08-02,P1,iPhone 14,Electronics,319,315
+2025-08-03,P1,iPhone 14,Electronics,299,315
+2025-08-04,P1,iPhone 14,Electronics,291,315
+2025-08-05,P1,iPhone 14,Electronics,291,315
+2025-08-06,P1,iPhone 14,Electronics,308,315
+2025-08-07,P1,iPhone 14,Electronics,324,315
+2025-08-08,P1,iPhone 14,Electronics,329,315
+2025-08-09,P1,iPhone 14,Electronics,326,315
+2025-08-10,P1,iPhone 14,Electronics,296,315
+2025-08-11,P1,iPhone 14,Electronics,293,315
+2025-08-12,P1,iPhone 14,Electronics,290,315
+2025-08-13,P1,iPhone 14,Electronics,310,315
+2025-08-14,P1,iPhone 14,Electronics,330,315
+2025-08-15,P1,iPhone 14,Electronics,331,315
+2025-08-16,P1,iPhone 14,Electronics,317,315
+2025-08-17,P1,iPhone 14,Electronics,301,315
+2025-08-18,P1,iPhone 14,Electronics,295,315
+2025-08-19,P1,iPhone 14,Electronics,295,315
+2025-08-20,P1,iPhone 14,Electronics,314,315
+2025-08-21,P1,iPhone 14,Electronics,329,315
+2025-08-22,P1,iPhone 14,Electronics,331,315
+2025-08-23,P1,iPhone 14,Electronics,329,315
+2025-08-24,P1,iPhone 14,Electronics,307,315
+2025-08-25,P1,iPhone 14,Electronics,289,315
+2025-08-26,P1,iPhone 14,Electronics,300,315
+2025-08-27,P1,iPhone 14,Electronics,313,315
+2025-08-28,P1,iPhone 14,Electronics,333,315
+2025-08-29,P1,iPhone 14,Electronics,333,315
+2025-08-30,P1,iPhone 14,Electronics,324,315
+2025-08-31,P1,iPhone 14,Electronics,309,315
+2025-09-01,P1,iPhone 14,Electronics,299,315
+2025-09-02,P1,iPhone 14,Electronics,297,315
+2025-09-03,P1,iPhone 14,Electronics,316,315
+2025-09-04,P1,iPhone 14,Electronics,331,315
+2025-09-05,P1,iPhone 14,Electronics,335,315
+2025-09-06,P1,iPhone 14,Electronics,332,315
+2025-09-07,P1,iPhone 14,Electronics,310,315
+2025-09-08,P1,iPhone 14,Electronics,295,315
+2025-09-09,P1,iPhone 14,Electronics,306,315
+2025-09-10,P1,iPhone 14,Electronics,325,315
+2025-09-11,P1,iPhone 14,Electronics,338,315
+2025-09-12,P1,iPhone 14,Electronics,334,315
+2025-09-13,P1,iPhone 14,Electronics,327,315
+2025-09-14,P1,iPhone 14,Electronics,315,315
+2025-09-15,P1,iPhone 14,Electronics,298,315
+2025-09-16,P1,iPhone 14,Electronics,306,315
+2025-09-17,P1,iPhone 14,Electronics,323,315
+2025-09-18,P1,iPhone 14,Electronics,334,315
+2025-09-19,P1,iPhone 14,Electronics,341,315
+2025-09-20,P1,iPhone 14,Electronics,320,315
+2025-09-21,P1,iPhone 14,Electronics,310,315
+2025-09-22,P1,iPhone 14,Electronics,302,315
+2025-09-23,P1,iPhone 14,Electronics,303,315
+2025-09-24,P1,iPhone 14,Electronics,327,315
+2025-09-25,P1,iPhone 14,Electronics,334,315
+2025-09-26,P1,iPhone 14,Electronics,341,315
+2025-09-27,P1,iPhone 14,Electronics,332,315
+2025-09-28,P1,iPhone 14,Electronics,319,315
+2025-09-29,P1,iPhone 14,Electronics,300,315
+2025-09-30,P1,iPhone 14,Electronics,312,315
+2025-10-01,P1,iPhone 14,Electronics,325,315
+2025-10-02,P1,iPhone 14,Electronics,337,315
+2025-10-03,P1,iPhone 14,Electronics,346,315
+2025-10-04,P1,iPhone 14,Electronics,335,315
+2025-10-05,P1,iPhone 14,Electronics,315,315
+2025-10-06,P1,iPhone 14,Electronics,307,315
+2025-10-07,P1,iPhone 14,Electronics,309,315
+2025-10-08,P1,iPhone 14,Electronics,327,315
+2025-10-09,P1,iPhone 14,Electronics,344,315
+2025-10-10,P1,iPhone 14,Electronics,351,315
+2025-10-11,P1,iPhone 14,Electronics,332,315
+2025-10-12,P1,iPhone 14,Electronics,325,315
+2025-10-13,P1,iPhone 14,Electronics,302,315
+2025-10-14,P1,iPhone 14,Electronics,312,315
+2025-10-15,P1,iPhone 14,Electronics,330,315
+2025-10-16,P1,iPhone 14,Electronics,345,315
+2025-10-17,P1,iPhone 14,Electronics,347,315
+2025-10-18,P1,iPhone 14,Electronics,337,315
+2025-10-19,P1,iPhone 14,Electronics,319,315
+2025-10-20,P1,iPhone 14,Electronics,308,315
+2025-10-21,P1,iPhone 14,Electronics,317,315
+2025-10-22,P1,iPhone 14,Electronics,331,315
+2025-10-23,P1,iPhone 14,Electronics,344,315
+2025-10-24,P1,iPhone 14,Electronics,353,315
+2025-10-25,P1,iPhone 14,Electronics,341,315
+2025-10-26,P1,iPhone 14,Electronics,325,315
+2025-10-27,P1,iPhone 14,Electronics,314,315
+2025-10-28,P1,iPhone 14,Electronics,314,315
+2025-10-29,P1,iPhone 14,Electronics,331,315
+2025-10-30,P1,iPhone 14,Electronics,350,315
+2025-10-31,P1,iPhone 14,Electronics,354,315
+2025-11-01,P1,iPhone 14,Electronics,342,315
+2025-11-02,P1,iPhone 14,Electronics,325,315
+2025-11-03,P1,iPhone 14,Electronics,318,315
+2025-11-04,P1,iPhone 14,Electronics,316,315
+2025-11-05,P1,iPhone 14,Electronics,336,315
+2025-11-06,P1,iPhone 14,Electronics,349,315
+2025-11-07,P1,iPhone 14,Electronics,354,315
+2025-11-08,P1,iPhone 14,Electronics,347,315
+2025-11-09,P1,iPhone 14,Electronics,329,315
+2025-11-10,P1,iPhone 14,Electronics,318,315
+2025-11-11,P1,iPhone 14,Electronics,324,315
+2025-11-12,P1,iPhone 14,Electronics,336,315
+2025-11-13,P1,iPhone 14,Electronics,354,315
+2025-11-14,P1,iPhone 14,Electronics,355,315
+2025-11-15,P1,iPhone 14,Electronics,347,315
+2025-11-16,P1,iPhone 14,Electronics,328,315
+2025-11-17,P1,iPhone 14,Electronics,318,315
+2025-11-18,P1,iPhone 14,Electronics,324,315
+2025-11-19,P1,iPhone 14,Electronics,336,315
+2025-11-20,P1,iPhone 14,Electronics,360,315
+2025-11-21,P1,iPhone 14,Electronics,355,315
+2025-11-22,P1,iPhone 14,Electronics,344,315
+2025-11-23,P1,iPhone 14,Electronics,334,315
+2025-11-24,P1,iPhone 14,Electronics,322,315
+2025-11-25,P1,iPhone 14,Electronics,326,315
+2025-11-26,P1,iPhone 14,Electronics,342,315
+2025-11-27,P1,iPhone 14,Electronics,356,315
+2025-11-28,P1,iPhone 14,Electronics,357,315
+2025-11-29,P1,iPhone 14,Electronics,350,315
+2025-11-30,P1,iPhone 14,Electronics,330,315
+2025-12-01,P1,iPhone 14,Electronics,325,315
+2025-12-02,P1,iPhone 14,Electronics,325,315
+2025-12-03,P1,iPhone 14,Electronics,339,315
+2025-12-04,P1,iPhone 14,Electronics,357,315
+2025-12-05,P1,iPhone 14,Electronics,363,315
+2025-12-06,P1,iPhone 14,Electronics,350,315
+2025-12-07,P1,iPhone 14,Electronics,332,315
+2025-12-08,P1,iPhone 14,Electronics,324,315
+2025-12-09,P1,iPhone 14,Electronics,329,315
+2025-12-10,P1,iPhone 14,Electronics,342,315
+2025-12-11,P1,iPhone 14,Electronics,358,315
+2025-12-12,P1,iPhone 14,Electronics,364,315
+2025-12-13,P1,iPhone 14,Electronics,349,315
+2025-12-14,P1,iPhone 14,Electronics,332,315
+2025-12-15,P1,iPhone 14,Electronics,323,315
+2025-12-16,P1,iPhone 14,Electronics,329,315
+2025-12-17,P1,iPhone 14,Electronics,347,315
+2025-12-18,P1,iPhone 14,Electronics,366,315
+2025-12-19,P1,iPhone 14,Electronics,368,315
+2025-12-20,P1,iPhone 14,Electronics,355,315
+2025-12-21,P1,iPhone 14,Electronics,338,315
+2025-12-22,P1,iPhone 14,Electronics,325,315
+2025-12-23,P1,iPhone 14,Electronics,332,315
+2025-12-24,P1,iPhone 14,Electronics,347,315
+2025-12-25,P1,iPhone 14,Electronics,364,315
+2025-12-26,P1,iPhone 14,Electronics,365,315
+2025-12-27,P1,iPhone 14,Electronics,359,315
+2025-12-28,P1,iPhone 14,Electronics,345,315
+2025-12-29,P1,iPhone 14,Electronics,329,315
+2025-12-30,P1,iPhone 14,Electronics,335,315
+2025-12-31,P1,iPhone 14,Electronics,352,315
+2025-01-01,P2,Wheat Flour,Grocery,148,364
+2025-01-02,P2,Wheat Flour,Grocery,169,364
+2025-01-03,P2,Wheat Flour,Grocery,168,364
+2025-01-04,P2,Wheat Flour,Grocery,159,364
+2025-01-05,P2,Wheat Flour,Grocery,142,364
+2025-01-06,P2,Wheat Flour,Grocery,130,364
+2025-01-07,P2,Wheat Flour,Grocery,134,364
+2025-01-08,P2,Wheat Flour,Grocery,153,364
+2025-01-09,P2,Wheat Flour,Grocery,163,364
+2025-01-10,P2,Wheat Flour,Grocery,168,364
+2025-01-11,P2,Wheat Flour,Grocery,156,364
+2025-01-12,P2,Wheat Flour,Grocery,146,364
+2025-01-13,P2,Wheat Flour,Grocery,129,364
+2025-01-14,P2,Wheat Flour,Grocery,135,364
+2025-01-15,P2,Wheat Flour,Grocery,149,364
+2025-01-16,P2,Wheat Flour,Grocery,165,364
+2025-01-17,P2,Wheat Flour,Grocery,168,364
+2025-01-18,P2,Wheat Flour,Grocery,161,364
+2025-01-19,P2,Wheat Flour,Grocery,139,364
+2025-01-20,P2,Wheat Flour,Grocery,128,364
+2025-01-21,P2,Wheat Flour,Grocery,134,364
+2025-01-22,P2,Wheat Flour,Grocery,149,364
+2025-01-23,P2,Wheat Flour,Grocery,163,364
+2025-01-24,P2,Wheat Flour,Grocery,170,364
+2025-01-25,P2,Wheat Flour,Grocery,155,364
+2025-01-26,P2,Wheat Flour,Grocery,148,364
+2025-01-27,P2,Wheat Flour,Grocery,128,364
+2025-01-28,P2,Wheat Flour,Grocery,134,364
+2025-01-29,P2,Wheat Flour,Grocery,151,364
+2025-01-30,P2,Wheat Flour,Grocery,173,364
+2025-01-31,P2,Wheat Flour,Grocery,166,364
+2025-02-01,P2,Wheat Flour,Grocery,161,364
+2025-02-02,P2,Wheat Flour,Grocery,147,364
+2025-02-03,P2,Wheat Flour,Grocery,132,364
+2025-02-04,P2,Wheat Flour,Grocery,133,364
+2025-02-05,P2,Wheat Flour,Grocery,152,364
+2025-02-06,P2,Wheat Flour,Grocery,173,364
+2025-02-07,P2,Wheat Flour,Grocery,170,364
+2025-02-08,P2,Wheat Flour,Grocery,166,364
+2025-02-09,P2,Wheat Flour,Grocery,145,364
+2025-02-10,P2,Wheat Flour,Grocery,137,364
+2025-02-11,P2,Wheat Flour,Grocery,138,364
+2025-02-12,P2,Wheat Flour,Grocery,152,364
+2025-02-13,P2,Wheat Flour,Grocery,174,364
+2025-02-14,P2,Wheat Flour,Grocery,173,364
+2025-02-15,P2,Wheat Flour,Grocery,162,364
+2025-02-16,P2,Wheat Flour,Grocery,147,364
+2025-02-17,P2,Wheat Flour,Grocery,137,364
+2025-02-18,P2,Wheat Flour,Grocery,140,364
+2025-02-19,P2,Wheat Flour,Grocery,149,364
+2025-02-20,P2,Wheat Flour,Grocery,167,364
+2025-02-21,P2,Wheat Flour,Grocery,171,364
+2025-02-22,P2,Wheat Flour,Grocery,160,364
+2025-02-23,P2,Wheat Flour,Grocery,143,364
+2025-02-24,P2,Wheat Flour,Grocery,132,364
+2025-02-25,P2,Wheat Flour,Grocery,139,364
+2025-02-26,P2,Wheat Flour,Grocery,156,364
+2025-02-27,P2,Wheat Flour,Grocery,170,364
+2025-02-28,P2,Wheat Flour,Grocery,173,364
+2025-03-01,P2,Wheat Flour,Grocery,167,364
+2025-03-02,P2,Wheat Flour,Grocery,145,364
+2025-03-03,P2,Wheat Flour,Grocery,138,364
+2025-03-04,P2,Wheat Flour,Grocery,137,364
+2025-03-05,P2,Wheat Flour,Grocery,156,364
+2025-03-06,P2,Wheat Flour,Grocery,174,364
+2025-03-07,P2,Wheat Flour,Grocery,167,364
+2025-03-08,P2,Wheat Flour,Grocery,162,364
+2025-03-09,P2,Wheat Flour,Grocery,148,364
+2025-03-10,P2,Wheat Flour,Grocery,139,364
+2025-03-11,P2,Wheat Flour,Grocery,140,364
+2025-03-12,P2,Wheat Flour,Grocery,155,364
+2025-03-13,P2,Wheat Flour,Grocery,176,364
+2025-03-14,P2,Wheat Flour,Grocery,179,364
+2025-03-15,P2,Wheat Flour,Grocery,162,364
+2025-03-16,P2,Wheat Flour,Grocery,147,364
+2025-03-17,P2,Wheat Flour,Grocery,137,364
+2025-03-18,P2,Wheat Flour,Grocery,145,364
+2025-03-19,P2,Wheat Flour,Grocery,158,364
+2025-03-20,P2,Wheat Flour,Grocery,171,364
+2025-03-21,P2,Wheat Flour,Grocery,176,364
+2025-03-22,P2,Wheat Flour,Grocery,159,364
+2025-03-23,P2,Wheat Flour,Grocery,150,364
+2025-03-24,P2,Wheat Flour,Grocery,139,364
+2025-03-25,P2,Wheat Flour,Grocery,144,364
+2025-03-26,P2,Wheat Flour,Grocery,156,364
+2025-03-27,P2,Wheat Flour,Grocery,173,364
+2025-03-28,P2,Wheat Flour,Grocery,175,364
+2025-03-29,P2,Wheat Flour,Grocery,162,364
+2025-03-30,P2,Wheat Flour,Grocery,146,364
+2025-03-31,P2,Wheat Flour,Grocery,132,364
+2025-04-01,P2,Wheat Flour,Grocery,144,364
+2025-04-02,P2,Wheat Flour,Grocery,150,364
+2025-04-03,P2,Wheat Flour,Grocery,179,364
+2025-04-04,P2,Wheat Flour,Grocery,171,364
+2025-04-05,P2,Wheat Flour,Grocery,170,364
+2025-04-06,P2,Wheat Flour,Grocery,146,364
+2025-04-07,P2,Wheat Flour,Grocery,140,364
+2025-04-08,P2,Wheat Flour,Grocery,140,364
+2025-04-09,P2,Wheat Flour,Grocery,163,364
+2025-04-10,P2,Wheat Flour,Grocery,173,364
+2025-04-11,P2,Wheat Flour,Grocery,180,364
+2025-04-12,P2,Wheat Flour,Grocery,167,364
+2025-04-13,P2,Wheat Flour,Grocery,150,364
+2025-04-14,P2,Wheat Flour,Grocery,140,364
+2025-04-15,P2,Wheat Flour,Grocery,141,364
+2025-04-16,P2,Wheat Flour,Grocery,154,364
+2025-04-17,P2,Wheat Flour,Grocery,170,364
+2025-04-18,P2,Wheat Flour,Grocery,178,364
+2025-04-19,P2,Wheat Flour,Grocery,166,364
+2025-04-20,P2,Wheat Flour,Grocery,143,364
+2025-04-21,P2,Wheat Flour,Grocery,141,364
+2025-04-22,P2,Wheat Flour,Grocery,139,364
+2025-04-23,P2,Wheat Flour,Grocery,155,364
+2025-04-24,P2,Wheat Flour,Grocery,174,364
+2025-04-25,P2,Wheat Flour,Grocery,176,364
+2025-04-26,P2,Wheat Flour,Grocery,168,364
+2025-04-27,P2,Wheat Flour,Grocery,156,364
+2025-04-28,P2,Wheat Flour,Grocery,139,364
+2025-04-29,P2,Wheat Flour,Grocery,140,364
+2025-04-30,P2,Wheat Flour,Grocery,160,364
+2025-05-01,P2,Wheat Flour,Grocery,173,364
+2025-05-02,P2,Wheat Flour,Grocery,179,364
+2025-05-03,P2,Wheat Flour,Grocery,169,364
+2025-05-04,P2,Wheat Flour,Grocery,151,364
+2025-05-05,P2,Wheat Flour,Grocery,140,364
+2025-05-06,P2,Wheat Flour,Grocery,145,364
+2025-05-07,P2,Wheat Flour,Grocery,165,364
+2025-05-08,P2,Wheat Flour,Grocery,175,364
+2025-05-09,P2,Wheat Flour,Grocery,180,364
+2025-05-10,P2,Wheat Flour,Grocery,171,364
+2025-05-11,P2,Wheat Flour,Grocery,153,364
+2025-05-12,P2,Wheat Flour,Grocery,140,364
+2025-05-13,P2,Wheat Flour,Grocery,147,364
+2025-05-14,P2,Wheat Flour,Grocery,158,364
+2025-05-15,P2,Wheat Flour,Grocery,176,364
+2025-05-16,P2,Wheat Flour,Grocery,178,364
+2025-05-17,P2,Wheat Flour,Grocery,171,364
+2025-05-18,P2,Wheat Flour,Grocery,156,364
+2025-05-19,P2,Wheat Flour,Grocery,142,364
+2025-05-20,P2,Wheat Flour,Grocery,146,364
+2025-05-21,P2,Wheat Flour,Grocery,158,364
+2025-05-22,P2,Wheat Flour,Grocery,175,364
+2025-05-23,P2,Wheat Flour,Grocery,177,364
+2025-05-24,P2,Wheat Flour,Grocery,163,364
+2025-05-25,P2,Wheat Flour,Grocery,152,364
+2025-05-26,P2,Wheat Flour,Grocery,141,364
+2025-05-27,P2,Wheat Flour,Grocery,152,364
+2025-05-28,P2,Wheat Flour,Grocery,166,364
+2025-05-29,P2,Wheat Flour,Grocery,179,364
+2025-05-30,P2,Wheat Flour,Grocery,188,364
+2025-05-31,P2,Wheat Flour,Grocery,175,364
+2025-06-01,P2,Wheat Flour,Grocery,147,364
+2025-06-02,P2,Wheat Flour,Grocery,146,364
+2025-06-03,P2,Wheat Flour,Grocery,149,364
+2025-06-04,P2,Wheat Flour,Grocery,161,364
+2025-06-05,P2,Wheat Flour,Grocery,174,364
+2025-06-06,P2,Wheat Flour,Grocery,184,364
+2025-06-07,P2,Wheat Flour,Grocery,165,364
+2025-06-08,P2,Wheat Flour,Grocery,154,364
+2025-06-09,P2,Wheat Flour,Grocery,141,364
+2025-06-10,P2,Wheat Flour,Grocery,143,364
+2025-06-11,P2,Wheat Flour,Grocery,166,364
+2025-06-12,P2,Wheat Flour,Grocery,178,364
+2025-06-13,P2,Wheat Flour,Grocery,183,364
+2025-06-14,P2,Wheat Flour,Grocery,174,364
+2025-06-15,P2,Wheat Flour,Grocery,154,364
+2025-06-16,P2,Wheat Flour,Grocery,145,364
+2025-06-17,P2,Wheat Flour,Grocery,150,364
+2025-06-18,P2,Wheat Flour,Grocery,165,364
+2025-06-19,P2,Wheat Flour,Grocery,180,364
+2025-06-20,P2,Wheat Flour,Grocery,188,364
+2025-06-21,P2,Wheat Flour,Grocery,176,364
+2025-06-22,P2,Wheat Flour,Grocery,155,364
+2025-06-23,P2,Wheat Flour,Grocery,142,364
+2025-06-24,P2,Wheat Flour,Grocery,150,364
+2025-06-25,P2,Wheat Flour,Grocery,165,364
+2025-06-26,P2,Wheat Flour,Grocery,185,364
+2025-06-27,P2,Wheat Flour,Grocery,187,364
+2025-06-28,P2,Wheat Flour,Grocery,175,364
+2025-06-29,P2,Wheat Flour,Grocery,156,364
+2025-06-30,P2,Wheat Flour,Grocery,142,364
+2025-07-01,P2,Wheat Flour,Grocery,148,364
+2025-07-02,P2,Wheat Flour,Grocery,166,364
+2025-07-03,P2,Wheat Flour,Grocery,175,364
+2025-07-04,P2,Wheat Flour,Grocery,188,364
+2025-07-05,P2,Wheat Flour,Grocery,180,364
+2025-07-06,P2,Wheat Flour,Grocery,150,364
+2025-07-07,P2,Wheat Flour,Grocery,141,364
+2025-07-08,P2,Wheat Flour,Grocery,150,364
+2025-07-09,P2,Wheat Flour,Grocery,163,364
+2025-07-10,P2,Wheat Flour,Grocery,182,364
+2025-07-11,P2,Wheat Flour,Grocery,185,364
+2025-07-12,P2,Wheat Flour,Grocery,171,364
+2025-07-13,P2,Wheat Flour,Grocery,161,364
+2025-07-14,P2,Wheat Flour,Grocery,147,364
+2025-07-15,P2,Wheat Flour,Grocery,148,364
+2025-07-16,P2,Wheat Flour,Grocery,170,364
+2025-07-17,P2,Wheat Flour,Grocery,180,364
+2025-07-18,P2,Wheat Flour,Grocery,182,364
+2025-07-19,P2,Wheat Flour,Grocery,175,364
+2025-07-20,P2,Wheat Flour,Grocery,158,364
+2025-07-21,P2,Wheat Flour,Grocery,148,364
+2025-07-22,P2,Wheat Flour,Grocery,153,364
+2025-07-23,P2,Wheat Flour,Grocery,168,364
+2025-07-24,P2,Wheat Flour,Grocery,183,364
+2025-07-25,P2,Wheat Flour,Grocery,184,364
+2025-07-26,P2,Wheat Flour,Grocery,173,364
+2025-07-27,P2,Wheat Flour,Grocery,160,364
+2025-07-28,P2,Wheat Flour,Grocery,148,364
+2025-07-29,P2,Wheat Flour,Grocery,154,364
+2025-07-30,P2,Wheat Flour,Grocery,162,364
+2025-07-31,P2,Wheat Flour,Grocery,181,364
+2025-08-01,P2,Wheat Flour,Grocery,192,364
+2025-08-02,P2,Wheat Flour,Grocery,177,364
+2025-08-03,P2,Wheat Flour,Grocery,159,364
+2025-08-04,P2,Wheat Flour,Grocery,150,364
+2025-08-05,P2,Wheat Flour,Grocery,158,364
+2025-08-06,P2,Wheat Flour,Grocery,173,364
+2025-08-07,P2,Wheat Flour,Grocery,178,364
+2025-08-08,P2,Wheat Flour,Grocery,183,364
+2025-08-09,P2,Wheat Flour,Grocery,171,364
+2025-08-10,P2,Wheat Flour,Grocery,157,364
+2025-08-11,P2,Wheat Flour,Grocery,148,364
+2025-08-12,P2,Wheat Flour,Grocery,153,364
+2025-08-13,P2,Wheat Flour,Grocery,163,364
+2025-08-14,P2,Wheat Flour,Grocery,178,364
+2025-08-15,P2,Wheat Flour,Grocery,185,364
+2025-08-16,P2,Wheat Flour,Grocery,180,364
+2025-08-17,P2,Wheat Flour,Grocery,163,364
+2025-08-18,P2,Wheat Flour,Grocery,154,364
+2025-08-19,P2,Wheat Flour,Grocery,153,364
+2025-08-20,P2,Wheat Flour,Grocery,171,364
+2025-08-21,P2,Wheat Flour,Grocery,187,364
+2025-08-22,P2,Wheat Flour,Grocery,187,364
+2025-08-23,P2,Wheat Flour,Grocery,179,364
+2025-08-24,P2,Wheat Flour,Grocery,162,364
+2025-08-25,P2,Wheat Flour,Grocery,147,364
+2025-08-26,P2,Wheat Flour,Grocery,158,364
+2025-08-27,P2,Wheat Flour,Grocery,169,364
+2025-08-28,P2,Wheat Flour,Grocery,185,364
+2025-08-29,P2,Wheat Flour,Grocery,186,364
+2025-08-30,P2,Wheat Flour,Grocery,176,364
+2025-08-31,P2,Wheat Flour,Grocery,154,364
+2025-09-01,P2,Wheat Flour,Grocery,150,364
+2025-09-02,P2,Wheat Flour,Grocery,161,364
+2025-09-03,P2,Wheat Flour,Grocery,167,364
+2025-09-04,P2,Wheat Flour,Grocery,194,364
+2025-09-05,P2,Wheat Flour,Grocery,194,364
+2025-09-06,P2,Wheat Flour,Grocery,177,364
+2025-09-07,P2,Wheat Flour,Grocery,161,364
+2025-09-08,P2,Wheat Flour,Grocery,150,364
+2025-09-09,P2,Wheat Flour,Grocery,160,364
+2025-09-10,P2,Wheat Flour,Grocery,172,364
+2025-09-11,P2,Wheat Flour,Grocery,190,364
+2025-09-12,P2,Wheat Flour,Grocery,191,364
+2025-09-13,P2,Wheat Flour,Grocery,179,364
+2025-09-14,P2,Wheat Flour,Grocery,163,364
+2025-09-15,P2,Wheat Flour,Grocery,150,364
+2025-09-16,P2,Wheat Flour,Grocery,151,364
+2025-09-17,P2,Wheat Flour,Grocery,173,364
+2025-09-18,P2,Wheat Flour,Grocery,182,364
+2025-09-19,P2,Wheat Flour,Grocery,190,364
+2025-09-20,P2,Wheat Flour,Grocery,178,364
+2025-09-21,P2,Wheat Flour,Grocery,164,364
+2025-09-22,P2,Wheat Flour,Grocery,156,364
+2025-09-23,P2,Wheat Flour,Grocery,159,364
+2025-09-24,P2,Wheat Flour,Grocery,173,364
+2025-09-25,P2,Wheat Flour,Grocery,185,364
+2025-09-26,P2,Wheat Flour,Grocery,191,364
+2025-09-27,P2,Wheat Flour,Grocery,179,364
+2025-09-28,P2,Wheat Flour,Grocery,162,364
+2025-09-29,P2,Wheat Flour,Grocery,151,364
+2025-09-30,P2,Wheat Flour,Grocery,155,364
+2025-10-01,P2,Wheat Flour,Grocery,171,364
+2025-10-02,P2,Wheat Flour,Grocery,191,364
+2025-10-03,P2,Wheat Flour,Grocery,188,364
+2025-10-04,P2,Wheat Flour,Grocery,179,364
+2025-10-05,P2,Wheat Flour,Grocery,159,364
+2025-10-06,P2,Wheat Flour,Grocery,157,364
+2025-10-07,P2,Wheat Flour,Grocery,154,364
+2025-10-08,P2,Wheat Flour,Grocery,175,364
+2025-10-09,P2,Wheat Flour,Grocery,190,364
+2025-10-10,P2,Wheat Flour,Grocery,196,364
+2025-10-11,P2,Wheat Flour,Grocery,181,364
+2025-10-12,P2,Wheat Flour,Grocery,161,364
+2025-10-13,P2,Wheat Flour,Grocery,149,364
+2025-10-14,P2,Wheat Flour,Grocery,149,364
+2025-10-15,P2,Wheat Flour,Grocery,174,364
+2025-10-16,P2,Wheat Flour,Grocery,191,364
+2025-10-17,P2,Wheat Flour,Grocery,194,364
+2025-10-18,P2,Wheat Flour,Grocery,177,364
+2025-10-19,P2,Wheat Flour,Grocery,168,364
+2025-10-20,P2,Wheat Flour,Grocery,152,364
+2025-10-21,P2,Wheat Flour,Grocery,155,364
+2025-10-22,P2,Wheat Flour,Grocery,172,364
+2025-10-23,P2,Wheat Flour,Grocery,190,364
+2025-10-24,P2,Wheat Flour,Grocery,189,364
+2025-10-25,P2,Wheat Flour,Grocery,183,364
+2025-10-26,P2,Wheat Flour,Grocery,167,364
+2025-10-27,P2,Wheat Flour,Grocery,158,364
+2025-10-28,P2,Wheat Flour,Grocery,159,364
+2025-10-29,P2,Wheat Flour,Grocery,170,364
+2025-10-30,P2,Wheat Flour,Grocery,190,364
+2025-10-31,P2,Wheat Flour,Grocery,191,364
+2025-11-01,P2,Wheat Flour,Grocery,180,364
+2025-11-02,P2,Wheat Flour,Grocery,162,364
+2025-11-03,P2,Wheat Flour,Grocery,149,364
+2025-11-04,P2,Wheat Flour,Grocery,157,364
+2025-11-05,P2,Wheat Flour,Grocery,178,364
+2025-11-06,P2,Wheat Flour,Grocery,197,364
+2025-11-07,P2,Wheat Flour,Grocery,193,364
+2025-11-08,P2,Wheat Flour,Grocery,187,364
+2025-11-09,P2,Wheat Flour,Grocery,165,364
+2025-11-10,P2,Wheat Flour,Grocery,151,364
+2025-11-11,P2,Wheat Flour,Grocery,162,364
+2025-11-12,P2,Wheat Flour,Grocery,176,364
+2025-11-13,P2,Wheat Flour,Grocery,197,364
+2025-11-14,P2,Wheat Flour,Grocery,191,364
+2025-11-15,P2,Wheat Flour,Grocery,193,364
+2025-11-16,P2,Wheat Flour,Grocery,172,364
+2025-11-17,P2,Wheat Flour,Grocery,156,364
+2025-11-18,P2,Wheat Flour,Grocery,159,364
+2025-11-19,P2,Wheat Flour,Grocery,174,364
+2025-11-20,P2,Wheat Flour,Grocery,192,364
+2025-11-21,P2,Wheat Flour,Grocery,195,364
+2025-11-22,P2,Wheat Flour,Grocery,187,364
+2025-11-23,P2,Wheat Flour,Grocery,167,364
+2025-11-24,P2,Wheat Flour,Grocery,161,364
+2025-11-25,P2,Wheat Flour,Grocery,161,364
+2025-11-26,P2,Wheat Flour,Grocery,176,364
+2025-11-27,P2,Wheat Flour,Grocery,195,364
+2025-11-28,P2,Wheat Flour,Grocery,191,364
+2025-11-29,P2,Wheat Flour,Grocery,187,364
+2025-11-30,P2,Wheat Flour,Grocery,168,364
+2025-12-01,P2,Wheat Flour,Grocery,153,364
+2025-12-02,P2,Wheat Flour,Grocery,156,364
+2025-12-03,P2,Wheat Flour,Grocery,180,364
+2025-12-04,P2,Wheat Flour,Grocery,196,364
+2025-12-05,P2,Wheat Flour,Grocery,197,364
+2025-12-06,P2,Wheat Flour,Grocery,191,364
+2025-12-07,P2,Wheat Flour,Grocery,170,364
+2025-12-08,P2,Wheat Flour,Grocery,162,364
+2025-12-09,P2,Wheat Flour,Grocery,163,364
+2025-12-10,P2,Wheat Flour,Grocery,177,364
+2025-12-11,P2,Wheat Flour,Grocery,190,364
+2025-12-12,P2,Wheat Flour,Grocery,196,364
+2025-12-13,P2,Wheat Flour,Grocery,186,364
+2025-12-14,P2,Wheat Flour,Grocery,174,364
+2025-12-15,P2,Wheat Flour,Grocery,161,364
+2025-12-16,P2,Wheat Flour,Grocery,164,364
+2025-12-17,P2,Wheat Flour,Grocery,181,364
+2025-12-18,P2,Wheat Flour,Grocery,196,364
+2025-12-19,P2,Wheat Flour,Grocery,199,364
+2025-12-20,P2,Wheat Flour,Grocery,183,364
+2025-12-21,P2,Wheat Flour,Grocery,173,364
+2025-12-22,P2,Wheat Flour,Grocery,158,364
+2025-12-23,P2,Wheat Flour,Grocery,166,364
+2025-12-24,P2,Wheat Flour,Grocery,182,364
+2025-12-25,P2,Wheat Flour,Grocery,193,364
+2025-12-26,P2,Wheat Flour,Grocery,201,364
+2025-12-27,P2,Wheat Flour,Grocery,187,364
+2025-12-28,P2,Wheat Flour,Grocery,170,364
+2025-12-29,P2,Wheat Flour,Grocery,161,364
+2025-12-30,P2,Wheat Flour,Grocery,165,364
+2025-12-31,P2,Wheat Flour,Grocery,180,364
+2025-01-01,P3,T-Shirt,Clothing,198,338
+2025-01-02,P3,T-Shirt,Clothing,219,338
+2025-01-03,P3,T-Shirt,Clothing,225,338
+2025-01-04,P3,T-Shirt,Clothing,210,338
+2025-01-05,P3,T-Shirt,Clothing,189,338
+2025-01-06,P3,T-Shirt,Clothing,179,338
+2025-01-07,P3,T-Shirt,Clothing,180,338
+2025-01-08,P3,T-Shirt,Clothing,200,338
+2025-01-09,P3,T-Shirt,Clothing,210,338
+2025-01-10,P3,T-Shirt,Clothing,221,338
+2025-01-11,P3,T-Shirt,Clothing,214,338
+2025-01-12,P3,T-Shirt,Clothing,193,338
+2025-01-13,P3,T-Shirt,Clothing,179,338
+2025-01-14,P3,T-Shirt,Clothing,185,338
+2025-01-15,P3,T-Shirt,Clothing,204,338
+2025-01-16,P3,T-Shirt,Clothing,220,338
+2025-01-17,P3,T-Shirt,Clothing,216,338
+2025-01-18,P3,T-Shirt,Clothing,210,338
+2025-01-19,P3,T-Shirt,Clothing,190,338
+2025-01-20,P3,T-Shirt,Clothing,182,338
+2025-01-21,P3,T-Shirt,Clothing,185,338
+2025-01-22,P3,T-Shirt,Clothing,192,338
+2025-01-23,P3,T-Shirt,Clothing,214,338
+2025-01-24,P3,T-Shirt,Clothing,220,338
+2025-01-25,P3,T-Shirt,Clothing,204,338
+2025-01-26,P3,T-Shirt,Clothing,193,338
+2025-01-27,P3,T-Shirt,Clothing,175,338
+2025-01-28,P3,T-Shirt,Clothing,181,338
+2025-01-29,P3,T-Shirt,Clothing,204,338
+2025-01-30,P3,T-Shirt,Clothing,212,338
+2025-01-31,P3,T-Shirt,Clothing,221,338
+2025-02-01,P3,T-Shirt,Clothing,203,338
+2025-02-02,P3,T-Shirt,Clothing,197,338
+2025-02-03,P3,T-Shirt,Clothing,179,338
+2025-02-04,P3,T-Shirt,Clothing,184,338
+2025-02-05,P3,T-Shirt,Clothing,200,338
+2025-02-06,P3,T-Shirt,Clothing,217,338
+2025-02-07,P3,T-Shirt,Clothing,214,338
+2025-02-08,P3,T-Shirt,Clothing,208,338
+2025-02-09,P3,T-Shirt,Clothing,189,338
+2025-02-10,P3,T-Shirt,Clothing,175,338
+2025-02-11,P3,T-Shirt,Clothing,187,338
+2025-02-12,P3,T-Shirt,Clothing,198,338
+2025-02-13,P3,T-Shirt,Clothing,216,338
+2025-02-14,P3,T-Shirt,Clothing,220,338
+2025-02-15,P3,T-Shirt,Clothing,207,338
+2025-02-16,P3,T-Shirt,Clothing,197,338
+2025-02-17,P3,T-Shirt,Clothing,180,338
+2025-02-18,P3,T-Shirt,Clothing,179,338
+2025-02-19,P3,T-Shirt,Clothing,198,338
+2025-02-20,P3,T-Shirt,Clothing,217,338
+2025-02-21,P3,T-Shirt,Clothing,221,338
+2025-02-22,P3,T-Shirt,Clothing,205,338
+2025-02-23,P3,T-Shirt,Clothing,194,338
+2025-02-24,P3,T-Shirt,Clothing,175,338
+2025-02-25,P3,T-Shirt,Clothing,187,338
+2025-02-26,P3,T-Shirt,Clothing,196,338
+2025-02-27,P3,T-Shirt,Clothing,214,338
+2025-02-28,P3,T-Shirt,Clothing,222,338
+2025-03-01,P3,T-Shirt,Clothing,209,338
+2025-03-02,P3,T-Shirt,Clothing,193,338
+2025-03-03,P3,T-Shirt,Clothing,182,338
+2025-03-04,P3,T-Shirt,Clothing,188,338
+2025-03-05,P3,T-Shirt,Clothing,203,338
+2025-03-06,P3,T-Shirt,Clothing,214,338
+2025-03-07,P3,T-Shirt,Clothing,221,338
+2025-03-08,P3,T-Shirt,Clothing,204,338
+2025-03-09,P3,T-Shirt,Clothing,191,338
+2025-03-10,P3,T-Shirt,Clothing,182,338
+2025-03-11,P3,T-Shirt,Clothing,184,338
+2025-03-12,P3,T-Shirt,Clothing,201,338
+2025-03-13,P3,T-Shirt,Clothing,214,338
+2025-03-14,P3,T-Shirt,Clothing,222,338
+2025-03-15,P3,T-Shirt,Clothing,208,338
+2025-03-16,P3,T-Shirt,Clothing,189,338
+2025-03-17,P3,T-Shirt,Clothing,183,338
+2025-03-18,P3,T-Shirt,Clothing,180,338
+2025-03-19,P3,T-Shirt,Clothing,201,338
+2025-03-20,P3,T-Shirt,Clothing,212,338
+2025-03-21,P3,T-Shirt,Clothing,223,338
+2025-03-22,P3,T-Shirt,Clothing,207,338
+2025-03-23,P3,T-Shirt,Clothing,191,338
+2025-03-24,P3,T-Shirt,Clothing,181,338
+2025-03-25,P3,T-Shirt,Clothing,178,338
+2025-03-26,P3,T-Shirt,Clothing,198,338
+2025-03-27,P3,T-Shirt,Clothing,218,338
+2025-03-28,P3,T-Shirt,Clothing,222,338
+2025-03-29,P3,T-Shirt,Clothing,209,338
+2025-03-30,P3,T-Shirt,Clothing,187,338
+2025-03-31,P3,T-Shirt,Clothing,182,338
+2025-04-01,P3,T-Shirt,Clothing,186,338
+2025-04-02,P3,T-Shirt,Clothing,200,338
+2025-04-03,P3,T-Shirt,Clothing,219,338
+2025-04-04,P3,T-Shirt,Clothing,217,338
+2025-04-05,P3,T-Shirt,Clothing,207,338
+2025-04-06,P3,T-Shirt,Clothing,183,338
+2025-04-07,P3,T-Shirt,Clothing,183,338
+2025-04-08,P3,T-Shirt,Clothing,185,338
+2025-04-09,P3,T-Shirt,Clothing,194,338
+2025-04-10,P3,T-Shirt,Clothing,210,338
+2025-04-11,P3,T-Shirt,Clothing,216,338
+2025-04-12,P3,T-Shirt,Clothing,211,338
+2025-04-13,P3,T-Shirt,Clothing,190,338
+2025-04-14,P3,T-Shirt,Clothing,178,338
+2025-04-15,P3,T-Shirt,Clothing,181,338
+2025-04-16,P3,T-Shirt,Clothing,196,338
+2025-04-17,P3,T-Shirt,Clothing,209,338
+2025-04-18,P3,T-Shirt,Clothing,215,338
+2025-04-19,P3,T-Shirt,Clothing,205,338
+2025-04-20,P3,T-Shirt,Clothing,193,338
+2025-04-21,P3,T-Shirt,Clothing,180,338
+2025-04-22,P3,T-Shirt,Clothing,181,338
+2025-04-23,P3,T-Shirt,Clothing,206,338
+2025-04-24,P3,T-Shirt,Clothing,213,338
+2025-04-25,P3,T-Shirt,Clothing,222,338
+2025-04-26,P3,T-Shirt,Clothing,213,338
+2025-04-27,P3,T-Shirt,Clothing,186,338
+2025-04-28,P3,T-Shirt,Clothing,180,338
+2025-04-29,P3,T-Shirt,Clothing,182,338
+2025-04-30,P3,T-Shirt,Clothing,198,338
+2025-05-01,P3,T-Shirt,Clothing,217,338
+2025-05-02,P3,T-Shirt,Clothing,217,338
+2025-05-03,P3,T-Shirt,Clothing,207,338
+2025-05-04,P3,T-Shirt,Clothing,190,338
+2025-05-05,P3,T-Shirt,Clothing,179,338
+2025-05-06,P3,T-Shirt,Clothing,180,338
+2025-05-07,P3,T-Shirt,Clothing,202,338
+2025-05-08,P3,T-Shirt,Clothing,218,338
+2025-05-09,P3,T-Shirt,Clothing,220,338
+2025-05-10,P3,T-Shirt,Clothing,207,338
+2025-05-11,P3,T-Shirt,Clothing,189,338
+2025-05-12,P3,T-Shirt,Clothing,178,338
+2025-05-13,P3,T-Shirt,Clothing,191,338
+2025-05-14,P3,T-Shirt,Clothing,202,338
+2025-05-15,P3,T-Shirt,Clothing,213,338
+2025-05-16,P3,T-Shirt,Clothing,219,338
+2025-05-17,P3,T-Shirt,Clothing,207,338
+2025-05-18,P3,T-Shirt,Clothing,193,338
+2025-05-19,P3,T-Shirt,Clothing,182,338
+2025-05-20,P3,T-Shirt,Clothing,187,338
+2025-05-21,P3,T-Shirt,Clothing,197,338
+2025-05-22,P3,T-Shirt,Clothing,215,338
+2025-05-23,P3,T-Shirt,Clothing,214,338
+2025-05-24,P3,T-Shirt,Clothing,204,338
+2025-05-25,P3,T-Shirt,Clothing,193,338
+2025-05-26,P3,T-Shirt,Clothing,177,338
+2025-05-27,P3,T-Shirt,Clothing,181,338
+2025-05-28,P3,T-Shirt,Clothing,199,338
+2025-05-29,P3,T-Shirt,Clothing,217,338
+2025-05-30,P3,T-Shirt,Clothing,216,338
+2025-05-31,P3,T-Shirt,Clothing,198,338
+2025-06-01,P3,T-Shirt,Clothing,188,338
+2025-06-02,P3,T-Shirt,Clothing,184,338
+2025-06-03,P3,T-Shirt,Clothing,185,338
+2025-06-04,P3,T-Shirt,Clothing,203,338
+2025-06-05,P3,T-Shirt,Clothing,212,338
+2025-06-06,P3,T-Shirt,Clothing,214,338
+2025-06-07,P3,T-Shirt,Clothing,210,338
+2025-06-08,P3,T-Shirt,Clothing,192,338
+2025-06-09,P3,T-Shirt,Clothing,181,338
+2025-06-10,P3,T-Shirt,Clothing,187,338
+2025-06-11,P3,T-Shirt,Clothing,201,338
+2025-06-12,P3,T-Shirt,Clothing,216,338
+2025-06-13,P3,T-Shirt,Clothing,221,338
+2025-06-14,P3,T-Shirt,Clothing,210,338
+2025-06-15,P3,T-Shirt,Clothing,193,338
+2025-06-16,P3,T-Shirt,Clothing,183,338
+2025-06-17,P3,T-Shirt,Clothing,188,338
+2025-06-18,P3,T-Shirt,Clothing,198,338
+2025-06-19,P3,T-Shirt,Clothing,217,338
+2025-06-20,P3,T-Shirt,Clothing,218,338
+2025-06-21,P3,T-Shirt,Clothing,206,338
+2025-06-22,P3,T-Shirt,Clothing,189,338
+2025-06-23,P3,T-Shirt,Clothing,181,338
+2025-06-24,P3,T-Shirt,Clothing,185,338
+2025-06-25,P3,T-Shirt,Clothing,201,338
+2025-06-26,P3,T-Shirt,Clothing,214,338
+2025-06-27,P3,T-Shirt,Clothing,219,338
+2025-06-28,P3,T-Shirt,Clothing,211,338
+2025-06-29,P3,T-Shirt,Clothing,186,338
+2025-06-30,P3,T-Shirt,Clothing,180,338
+2025-07-01,P3,T-Shirt,Clothing,184,338
+2025-07-02,P3,T-Shirt,Clothing,202,338
+2025-07-03,P3,T-Shirt,Clothing,211,338
+2025-07-04,P3,T-Shirt,Clothing,223,338
+2025-07-05,P3,T-Shirt,Clothing,209,338
+2025-07-06,P3,T-Shirt,Clothing,192,338
+2025-07-07,P3,T-Shirt,Clothing,179,338
+2025-07-08,P3,T-Shirt,Clothing,185,338
+2025-07-09,P3,T-Shirt,Clothing,200,338
+2025-07-10,P3,T-Shirt,Clothing,219,338
+2025-07-11,P3,T-Shirt,Clothing,215,338
+2025-07-12,P3,T-Shirt,Clothing,209,338
+2025-07-13,P3,T-Shirt,Clothing,192,338
+2025-07-14,P3,T-Shirt,Clothing,179,338
+2025-07-15,P3,T-Shirt,Clothing,183,338
+2025-07-16,P3,T-Shirt,Clothing,198,338
+2025-07-17,P3,T-Shirt,Clothing,216,338
+2025-07-18,P3,T-Shirt,Clothing,214,338
+2025-07-19,P3,T-Shirt,Clothing,211,338
+2025-07-20,P3,T-Shirt,Clothing,189,338
+2025-07-21,P3,T-Shirt,Clothing,180,338
+2025-07-22,P3,T-Shirt,Clothing,185,338
+2025-07-23,P3,T-Shirt,Clothing,198,338
+2025-07-24,P3,T-Shirt,Clothing,215,338
+2025-07-25,P3,T-Shirt,Clothing,213,338
+2025-07-26,P3,T-Shirt,Clothing,210,338
+2025-07-27,P3,T-Shirt,Clothing,194,338
+2025-07-28,P3,T-Shirt,Clothing,175,338
+2025-07-29,P3,T-Shirt,Clothing,183,338
+2025-07-30,P3,T-Shirt,Clothing,196,338
+2025-07-31,P3,T-Shirt,Clothing,215,338
+2025-08-01,P3,T-Shirt,Clothing,221,338
+2025-08-02,P3,T-Shirt,Clothing,211,338
+2025-08-03,P3,T-Shirt,Clothing,194,338
+2025-08-04,P3,T-Shirt,Clothing,184,338
+2025-08-05,P3,T-Shirt,Clothing,183,338
+2025-08-06,P3,T-Shirt,Clothing,196,338
+2025-08-07,P3,T-Shirt,Clothing,215,338
+2025-08-08,P3,T-Shirt,Clothing,221,338
+2025-08-09,P3,T-Shirt,Clothing,204,338
+2025-08-10,P3,T-Shirt,Clothing,196,338
+2025-08-11,P3,T-Shirt,Clothing,183,338
+2025-08-12,P3,T-Shirt,Clothing,183,338
+2025-08-13,P3,T-Shirt,Clothing,197,338
+2025-08-14,P3,T-Shirt,Clothing,213,338
+2025-08-15,P3,T-Shirt,Clothing,219,338
+2025-08-16,P3,T-Shirt,Clothing,207,338
+2025-08-17,P3,T-Shirt,Clothing,194,338
+2025-08-18,P3,T-Shirt,Clothing,179,338
+2025-08-19,P3,T-Shirt,Clothing,185,338
+2025-08-20,P3,T-Shirt,Clothing,199,338
+2025-08-21,P3,T-Shirt,Clothing,216,338
+2025-08-22,P3,T-Shirt,Clothing,218,338
+2025-08-23,P3,T-Shirt,Clothing,210,338
+2025-08-24,P3,T-Shirt,Clothing,193,338
+2025-08-25,P3,T-Shirt,Clothing,181,338
+2025-08-26,P3,T-Shirt,Clothing,186,338
+2025-08-27,P3,T-Shirt,Clothing,197,338
+2025-08-28,P3,T-Shirt,Clothing,216,338
+2025-08-29,P3,T-Shirt,Clothing,223,338
+2025-08-30,P3,T-Shirt,Clothing,210,338
+2025-08-31,P3,T-Shirt,Clothing,188,338
+2025-09-01,P3,T-Shirt,Clothing,180,338
+2025-09-02,P3,T-Shirt,Clothing,185,338
+2025-09-03,P3,T-Shirt,Clothing,197,338
+2025-09-04,P3,T-Shirt,Clothing,211,338
+2025-09-05,P3,T-Shirt,Clothing,218,338
+2025-09-06,P3,T-Shirt,Clothing,206,338
+2025-09-07,P3,T-Shirt,Clothing,191,338
+2025-09-08,P3,T-Shirt,Clothing,175,338
+2025-09-09,P3,T-Shirt,Clothing,186,338
+2025-09-10,P3,T-Shirt,Clothing,198,338
+2025-09-11,P3,T-Shirt,Clothing,218,338
+2025-09-12,P3,T-Shirt,Clothing,218,338
+2025-09-13,P3,T-Shirt,Clothing,208,338
+2025-09-14,P3,T-Shirt,Clothing,190,338
+2025-09-15,P3,T-Shirt,Clothing,178,338
+2025-09-16,P3,T-Shirt,Clothing,191,338
+2025-09-17,P3,T-Shirt,Clothing,198,338
+2025-09-18,P3,T-Shirt,Clothing,218,338
+2025-09-19,P3,T-Shirt,Clothing,216,338
+2025-09-20,P3,T-Shirt,Clothing,209,338
+2025-09-21,P3,T-Shirt,Clothing,192,338
+2025-09-22,P3,T-Shirt,Clothing,180,338
+2025-09-23,P3,T-Shirt,Clothing,182,338
+2025-09-24,P3,T-Shirt,Clothing,199,338
+2025-09-25,P3,T-Shirt,Clothing,214,338
+2025-09-26,P3,T-Shirt,Clothing,226,338
+2025-09-27,P3,T-Shirt,Clothing,208,338
+2025-09-28,P3,T-Shirt,Clothing,192,338
+2025-09-29,P3,T-Shirt,Clothing,185,338
+2025-09-30,P3,T-Shirt,Clothing,181,338
+2025-10-01,P3,T-Shirt,Clothing,200,338
+2025-10-02,P3,T-Shirt,Clothing,214,338
+2025-10-03,P3,T-Shirt,Clothing,219,338
+2025-10-04,P3,T-Shirt,Clothing,208,338
+2025-10-05,P3,T-Shirt,Clothing,189,338
+2025-10-06,P3,T-Shirt,Clothing,181,338
+2025-10-07,P3,T-Shirt,Clothing,181,338
+2025-10-08,P3,T-Shirt,Clothing,202,338
+2025-10-09,P3,T-Shirt,Clothing,217,338
+2025-10-10,P3,T-Shirt,Clothing,218,338
+2025-10-11,P3,T-Shirt,Clothing,207,338
+2025-10-12,P3,T-Shirt,Clothing,192,338
+2025-10-13,P3,T-Shirt,Clothing,178,338
+2025-10-14,P3,T-Shirt,Clothing,189,338
+2025-10-15,P3,T-Shirt,Clothing,201,338
+2025-10-16,P3,T-Shirt,Clothing,216,338
+2025-10-17,P3,T-Shirt,Clothing,221,338
+2025-10-18,P3,T-Shirt,Clothing,206,338
+2025-10-19,P3,T-Shirt,Clothing,194,338
+2025-10-20,P3,T-Shirt,Clothing,180,338
+2025-10-21,P3,T-Shirt,Clothing,187,338
+2025-10-22,P3,T-Shirt,Clothing,199,338
+2025-10-23,P3,T-Shirt,Clothing,219,338
+2025-10-24,P3,T-Shirt,Clothing,220,338
+2025-10-25,P3,T-Shirt,Clothing,215,338
+2025-10-26,P3,T-Shirt,Clothing,190,338
+2025-10-27,P3,T-Shirt,Clothing,181,338
+2025-10-28,P3,T-Shirt,Clothing,181,338
+2025-10-29,P3,T-Shirt,Clothing,198,338
+2025-10-30,P3,T-Shirt,Clothing,217,338
+2025-10-31,P3,T-Shirt,Clothing,222,338
+2025-11-01,P3,T-Shirt,Clothing,217,338
+2025-11-02,P3,T-Shirt,Clothing,191,338
+2025-11-03,P3,T-Shirt,Clothing,177,338
+2025-11-04,P3,T-Shirt,Clothing,186,338
+2025-11-05,P3,T-Shirt,Clothing,196,338
+2025-11-06,P3,T-Shirt,Clothing,217,338
+2025-11-07,P3,T-Shirt,Clothing,217,338
+2025-11-08,P3,T-Shirt,Clothing,209,338
+2025-11-09,P3,T-Shirt,Clothing,194,338
+2025-11-10,P3,T-Shirt,Clothing,180,338
+2025-11-11,P3,T-Shirt,Clothing,187,338
+2025-11-12,P3,T-Shirt,Clothing,202,338
+2025-11-13,P3,T-Shirt,Clothing,210,338
+2025-11-14,P3,T-Shirt,Clothing,216,338
+2025-11-15,P3,T-Shirt,Clothing,203,338
+2025-11-16,P3,T-Shirt,Clothing,197,338
+2025-11-17,P3,T-Shirt,Clothing,180,338
+2025-11-18,P3,T-Shirt,Clothing,189,338
+2025-11-19,P3,T-Shirt,Clothing,195,338
+2025-11-20,P3,T-Shirt,Clothing,213,338
+2025-11-21,P3,T-Shirt,Clothing,221,338
+2025-11-22,P3,T-Shirt,Clothing,209,338
+2025-11-23,P3,T-Shirt,Clothing,192,338
+2025-11-24,P3,T-Shirt,Clothing,176,338
+2025-11-25,P3,T-Shirt,Clothing,188,338
+2025-11-26,P3,T-Shirt,Clothing,202,338
+2025-11-27,P3,T-Shirt,Clothing,216,338
+2025-11-28,P3,T-Shirt,Clothing,217,338
+2025-11-29,P3,T-Shirt,Clothing,209,338
+2025-11-30,P3,T-Shirt,Clothing,190,338
+2025-12-01,P3,T-Shirt,Clothing,175,338
+2025-12-02,P3,T-Shirt,Clothing,184,338
+2025-12-03,P3,T-Shirt,Clothing,199,338
+2025-12-04,P3,T-Shirt,Clothing,218,338
+2025-12-05,P3,T-Shirt,Clothing,212,338
+2025-12-06,P3,T-Shirt,Clothing,209,338
+2025-12-07,P3,T-Shirt,Clothing,187,338
+2025-12-08,P3,T-Shirt,Clothing,181,338
+2025-12-09,P3,T-Shirt,Clothing,185,338
+2025-12-10,P3,T-Shirt,Clothing,199,338
+2025-12-11,P3,T-Shirt,Clothing,218,338
+2025-12-12,P3,T-Shirt,Clothing,215,338
+2025-12-13,P3,T-Shirt,Clothing,212,338
+2025-12-14,P3,T-Shirt,Clothing,189,338
+2025-12-15,P3,T-Shirt,Clothing,175,338
+2025-12-16,P3,T-Shirt,Clothing,183,338
+2025-12-17,P3,T-Shirt,Clothing,193,338
+2025-12-18,P3,T-Shirt,Clothing,216,338
+2025-12-19,P3,T-Shirt,Clothing,218,338
+2025-12-20,P3,T-Shirt,Clothing,212,338
+2025-12-21,P3,T-Shirt,Clothing,193,338
+2025-12-22,P3,T-Shirt,Clothing,176,338
+2025-12-23,P3,T-Shirt,Clothing,181,338
+2025-12-24,P3,T-Shirt,Clothing,201,338
+2025-12-25,P3,T-Shirt,Clothing,218,338
+2025-12-26,P3,T-Shirt,Clothing,223,338
+2025-12-27,P3,T-Shirt,Clothing,212,338
+2025-12-28,P3,T-Shirt,Clothing,191,338
+2025-12-29,P3,T-Shirt,Clothing,181,338
+2025-12-30,P3,T-Shirt,Clothing,188,338
+2025-12-31,P3,T-Shirt,Clothing,199,338
+2025-01-01,P4,Pain Reliever,Pharma,221,241
+2025-01-02,P4,Pain Reliever,Pharma,234,241
+2025-01-03,P4,Pain Reliever,Pharma,238,241
+2025-01-04,P4,Pain Reliever,Pharma,229,241
+2025-01-05,P4,Pain Reliever,Pharma,210,241
+2025-01-06,P4,Pain Reliever,Pharma,199,241
+2025-01-07,P4,Pain Reliever,Pharma,203,241
+2025-01-08,P4,Pain Reliever,Pharma,226,241
+2025-01-09,P4,Pain Reliever,Pharma,239,241
+2025-01-10,P4,Pain Reliever,Pharma,239,241
+2025-01-11,P4,Pain Reliever,Pharma,222,241
+2025-01-12,P4,Pain Reliever,Pharma,208,241
+2025-01-13,P4,Pain Reliever,Pharma,203,241
+2025-01-14,P4,Pain Reliever,Pharma,200,241
+2025-01-15,P4,Pain Reliever,Pharma,223,241
+2025-01-16,P4,Pain Reliever,Pharma,234,241
+2025-01-17,P4,Pain Reliever,Pharma,242,241
+2025-01-18,P4,Pain Reliever,Pharma,231,241
+2025-01-19,P4,Pain Reliever,Pharma,214,241
+2025-01-20,P4,Pain Reliever,Pharma,202,241
+2025-01-21,P4,Pain Reliever,Pharma,206,241
+2025-01-22,P4,Pain Reliever,Pharma,221,241
+2025-01-23,P4,Pain Reliever,Pharma,240,241
+2025-01-24,P4,Pain Reliever,Pharma,245,241
+2025-01-25,P4,Pain Reliever,Pharma,228,241
+2025-01-26,P4,Pain Reliever,Pharma,215,241
+2025-01-27,P4,Pain Reliever,Pharma,205,241
+2025-01-28,P4,Pain Reliever,Pharma,209,241
+2025-01-29,P4,Pain Reliever,Pharma,225,241
+2025-01-30,P4,Pain Reliever,Pharma,239,241
+2025-01-31,P4,Pain Reliever,Pharma,245,241
+2025-02-01,P4,Pain Reliever,Pharma,235,241
+2025-02-02,P4,Pain Reliever,Pharma,217,241
+2025-02-03,P4,Pain Reliever,Pharma,207,241
+2025-02-04,P4,Pain Reliever,Pharma,212,241
+2025-02-05,P4,Pain Reliever,Pharma,220,241
+2025-02-06,P4,Pain Reliever,Pharma,244,241
+2025-02-07,P4,Pain Reliever,Pharma,246,241
+2025-02-08,P4,Pain Reliever,Pharma,231,241
+2025-02-09,P4,Pain Reliever,Pharma,220,241
+2025-02-10,P4,Pain Reliever,Pharma,205,241
+2025-02-11,P4,Pain Reliever,Pharma,210,241
+2025-02-12,P4,Pain Reliever,Pharma,225,241
+2025-02-13,P4,Pain Reliever,Pharma,243,241
+2025-02-14,P4,Pain Reliever,Pharma,244,241
+2025-02-15,P4,Pain Reliever,Pharma,238,241
+2025-02-16,P4,Pain Reliever,Pharma,218,241
+2025-02-17,P4,Pain Reliever,Pharma,207,241
+2025-02-18,P4,Pain Reliever,Pharma,214,241
+2025-02-19,P4,Pain Reliever,Pharma,227,241
+2025-02-20,P4,Pain Reliever,Pharma,246,241
+2025-02-21,P4,Pain Reliever,Pharma,250,241
+2025-02-22,P4,Pain Reliever,Pharma,233,241
+2025-02-23,P4,Pain Reliever,Pharma,223,241
+2025-02-24,P4,Pain Reliever,Pharma,205,241
+2025-02-25,P4,Pain Reliever,Pharma,216,241
+2025-02-26,P4,Pain Reliever,Pharma,235,241
+2025-02-27,P4,Pain Reliever,Pharma,247,241
+2025-02-28,P4,Pain Reliever,Pharma,242,241
+2025-03-01,P4,Pain Reliever,Pharma,241,241
+2025-03-02,P4,Pain Reliever,Pharma,227,241
+2025-03-03,P4,Pain Reliever,Pharma,209,241
+2025-03-04,P4,Pain Reliever,Pharma,214,241
+2025-03-05,P4,Pain Reliever,Pharma,226,241
+2025-03-06,P4,Pain Reliever,Pharma,247,241
+2025-03-07,P4,Pain Reliever,Pharma,254,241
+2025-03-08,P4,Pain Reliever,Pharma,241,241
+2025-03-09,P4,Pain Reliever,Pharma,231,241
+2025-03-10,P4,Pain Reliever,Pharma,211,241
+2025-03-11,P4,Pain Reliever,Pharma,210,241
+2025-03-12,P4,Pain Reliever,Pharma,232,241
+2025-03-13,P4,Pain Reliever,Pharma,240,241
+2025-03-14,P4,Pain Reliever,Pharma,249,241
+2025-03-15,P4,Pain Reliever,Pharma,245,241
+2025-03-16,P4,Pain Reliever,Pharma,224,241
+2025-03-17,P4,Pain Reliever,Pharma,213,241
+2025-03-18,P4,Pain Reliever,Pharma,222,241
+2025-03-19,P4,Pain Reliever,Pharma,231,241
+2025-03-20,P4,Pain Reliever,Pharma,252,241
+2025-03-21,P4,Pain Reliever,Pharma,252,241
+2025-03-22,P4,Pain Reliever,Pharma,243,241
+2025-03-23,P4,Pain Reliever,Pharma,221,241
+2025-03-24,P4,Pain Reliever,Pharma,212,241
+2025-03-25,P4,Pain Reliever,Pharma,213,241
+2025-03-26,P4,Pain Reliever,Pharma,233,241
+2025-03-27,P4,Pain Reliever,Pharma,250,241
+2025-03-28,P4,Pain Reliever,Pharma,250,241
+2025-03-29,P4,Pain Reliever,Pharma,249,241
+2025-03-30,P4,Pain Reliever,Pharma,226,241
+2025-03-31,P4,Pain Reliever,Pharma,215,241
+2025-04-01,P4,Pain Reliever,Pharma,221,241
+2025-04-02,P4,Pain Reliever,Pharma,232,241
+2025-04-03,P4,Pain Reliever,Pharma,251,241
+2025-04-04,P4,Pain Reliever,Pharma,252,241
+2025-04-05,P4,Pain Reliever,Pharma,248,241
+2025-04-06,P4,Pain Reliever,Pharma,223,241
+2025-04-07,P4,Pain Reliever,Pharma,216,241
+2025-04-08,P4,Pain Reliever,Pharma,221,241
+2025-04-09,P4,Pain Reliever,Pharma,237,241
+2025-04-10,P4,Pain Reliever,Pharma,250,241
+2025-04-11,P4,Pain Reliever,Pharma,253,241
+2025-04-12,P4,Pain Reliever,Pharma,243,241
+2025-04-13,P4,Pain Reliever,Pharma,229,241
+2025-04-14,P4,Pain Reliever,Pharma,217,241
+2025-04-15,P4,Pain Reliever,Pharma,223,241
+2025-04-16,P4,Pain Reliever,Pharma,238,241
+2025-04-17,P4,Pain Reliever,Pharma,246,241
+2025-04-18,P4,Pain Reliever,Pharma,257,241
+2025-04-19,P4,Pain Reliever,Pharma,253,241
+2025-04-20,P4,Pain Reliever,Pharma,233,241
+2025-04-21,P4,Pain Reliever,Pharma,219,241
+2025-04-22,P4,Pain Reliever,Pharma,219,241
+2025-04-23,P4,Pain Reliever,Pharma,239,241
+2025-04-24,P4,Pain Reliever,Pharma,256,241
+2025-04-25,P4,Pain Reliever,Pharma,257,241
+2025-04-26,P4,Pain Reliever,Pharma,248,241
+2025-04-27,P4,Pain Reliever,Pharma,234,241
+2025-04-28,P4,Pain Reliever,Pharma,217,241
+2025-04-29,P4,Pain Reliever,Pharma,220,241
+2025-04-30,P4,Pain Reliever,Pharma,241,241
+2025-05-01,P4,Pain Reliever,Pharma,256,241
+2025-05-02,P4,Pain Reliever,Pharma,262,241
+2025-05-03,P4,Pain Reliever,Pharma,250,241
+2025-05-04,P4,Pain Reliever,Pharma,229,241
+2025-05-05,P4,Pain Reliever,Pharma,222,241
+2025-05-06,P4,Pain Reliever,Pharma,221,241
+2025-05-07,P4,Pain Reliever,Pharma,240,241
+2025-05-08,P4,Pain Reliever,Pharma,258,241
+2025-05-09,P4,Pain Reliever,Pharma,259,241
+2025-05-10,P4,Pain Reliever,Pharma,257,241
+2025-05-11,P4,Pain Reliever,Pharma,227,241
+2025-05-12,P4,Pain Reliever,Pharma,220,241
+2025-05-13,P4,Pain Reliever,Pharma,223,241
+2025-05-14,P4,Pain Reliever,Pharma,239,241
+2025-05-15,P4,Pain Reliever,Pharma,255,241
+2025-05-16,P4,Pain Reliever,Pharma,257,241
+2025-05-17,P4,Pain Reliever,Pharma,253,241
+2025-05-18,P4,Pain Reliever,Pharma,232,241
+2025-05-19,P4,Pain Reliever,Pharma,223,241
+2025-05-20,P4,Pain Reliever,Pharma,225,241
+2025-05-21,P4,Pain Reliever,Pharma,241,241
+2025-05-22,P4,Pain Reliever,Pharma,263,241
+2025-05-23,P4,Pain Reliever,Pharma,265,241
+2025-05-24,P4,Pain Reliever,Pharma,246,241
+2025-05-25,P4,Pain Reliever,Pharma,229,241
+2025-05-26,P4,Pain Reliever,Pharma,227,241
+2025-05-27,P4,Pain Reliever,Pharma,226,241
+2025-05-28,P4,Pain Reliever,Pharma,239,241
+2025-05-29,P4,Pain Reliever,Pharma,263,241
+2025-05-30,P4,Pain Reliever,Pharma,264,241
+2025-05-31,P4,Pain Reliever,Pharma,254,241
+2025-06-01,P4,Pain Reliever,Pharma,238,241
+2025-06-02,P4,Pain Reliever,Pharma,221,241
+2025-06-03,P4,Pain Reliever,Pharma,224,241
+2025-06-04,P4,Pain Reliever,Pharma,250,241
+2025-06-05,P4,Pain Reliever,Pharma,256,241
+2025-06-06,P4,Pain Reliever,Pharma,261,241
+2025-06-07,P4,Pain Reliever,Pharma,251,241
+2025-06-08,P4,Pain Reliever,Pharma,243,241
+2025-06-09,P4,Pain Reliever,Pharma,228,241
+2025-06-10,P4,Pain Reliever,Pharma,233,241
+2025-06-11,P4,Pain Reliever,Pharma,247,241
+2025-06-12,P4,Pain Reliever,Pharma,260,241
+2025-06-13,P4,Pain Reliever,Pharma,268,241
+2025-06-14,P4,Pain Reliever,Pharma,251,241
+2025-06-15,P4,Pain Reliever,Pharma,235,241
+2025-06-16,P4,Pain Reliever,Pharma,230,241
+2025-06-17,P4,Pain Reliever,Pharma,227,241
+2025-06-18,P4,Pain Reliever,Pharma,247,241
+2025-06-19,P4,Pain Reliever,Pharma,263,241
+2025-06-20,P4,Pain Reliever,Pharma,265,241
+2025-06-21,P4,Pain Reliever,Pharma,251,241
+2025-06-22,P4,Pain Reliever,Pharma,237,241
+2025-06-23,P4,Pain Reliever,Pharma,226,241
+2025-06-24,P4,Pain Reliever,Pharma,233,241
+2025-06-25,P4,Pain Reliever,Pharma,249,241
+2025-06-26,P4,Pain Reliever,Pharma,265,241
+2025-06-27,P4,Pain Reliever,Pharma,266,241
+2025-06-28,P4,Pain Reliever,Pharma,259,241
+2025-06-29,P4,Pain Reliever,Pharma,236,241
+2025-06-30,P4,Pain Reliever,Pharma,224,241
+2025-07-01,P4,Pain Reliever,Pharma,227,241
+2025-07-02,P4,Pain Reliever,Pharma,248,241
+2025-07-03,P4,Pain Reliever,Pharma,263,241
+2025-07-04,P4,Pain Reliever,Pharma,272,241
+2025-07-05,P4,Pain Reliever,Pharma,257,241
+2025-07-06,P4,Pain Reliever,Pharma,242,241
+2025-07-07,P4,Pain Reliever,Pharma,233,241
+2025-07-08,P4,Pain Reliever,Pharma,233,241
+2025-07-09,P4,Pain Reliever,Pharma,252,241
+2025-07-10,P4,Pain Reliever,Pharma,269,241
+2025-07-11,P4,Pain Reliever,Pharma,267,241
+2025-07-12,P4,Pain Reliever,Pharma,260,241
+2025-07-13,P4,Pain Reliever,Pharma,241,241
+2025-07-14,P4,Pain Reliever,Pharma,228,241
+2025-07-15,P4,Pain Reliever,Pharma,231,241
+2025-07-16,P4,Pain Reliever,Pharma,248,241
+2025-07-17,P4,Pain Reliever,Pharma,268,241
+2025-07-18,P4,Pain Reliever,Pharma,267,241
+2025-07-19,P4,Pain Reliever,Pharma,259,241
+2025-07-20,P4,Pain Reliever,Pharma,246,241
+2025-07-21,P4,Pain Reliever,Pharma,234,241
+2025-07-22,P4,Pain Reliever,Pharma,236,241
+2025-07-23,P4,Pain Reliever,Pharma,258,241
+2025-07-24,P4,Pain Reliever,Pharma,274,241
+2025-07-25,P4,Pain Reliever,Pharma,273,241
+2025-07-26,P4,Pain Reliever,Pharma,255,241
+2025-07-27,P4,Pain Reliever,Pharma,248,241
+2025-07-28,P4,Pain Reliever,Pharma,227,241
+2025-07-29,P4,Pain Reliever,Pharma,243,241
+2025-07-30,P4,Pain Reliever,Pharma,257,241
+2025-07-31,P4,Pain Reliever,Pharma,275,241
+2025-08-01,P4,Pain Reliever,Pharma,275,241
+2025-08-02,P4,Pain Reliever,Pharma,262,241
+2025-08-03,P4,Pain Reliever,Pharma,245,241
+2025-08-04,P4,Pain Reliever,Pharma,234,241
+2025-08-05,P4,Pain Reliever,Pharma,242,241
+2025-08-06,P4,Pain Reliever,Pharma,257,241
+2025-08-07,P4,Pain Reliever,Pharma,271,241
+2025-08-08,P4,Pain Reliever,Pharma,273,241
+2025-08-09,P4,Pain Reliever,Pharma,272,241
+2025-08-10,P4,Pain Reliever,Pharma,250,241
+2025-08-11,P4,Pain Reliever,Pharma,232,241
+2025-08-12,P4,Pain Reliever,Pharma,239,241
+2025-08-13,P4,Pain Reliever,Pharma,259,241
+2025-08-14,P4,Pain Reliever,Pharma,270,241
+2025-08-15,P4,Pain Reliever,Pharma,277,241
+2025-08-16,P4,Pain Reliever,Pharma,268,241
+2025-08-17,P4,Pain Reliever,Pharma,238,241
+2025-08-18,P4,Pain Reliever,Pharma,237,241
+2025-08-19,P4,Pain Reliever,Pharma,242,241
+2025-08-20,P4,Pain Reliever,Pharma,256,241
+2025-08-21,P4,Pain Reliever,Pharma,274,241
+2025-08-22,P4,Pain Reliever,Pharma,279,241
+2025-08-23,P4,Pain Reliever,Pharma,267,241
+2025-08-24,P4,Pain Reliever,Pharma,248,241
+2025-08-25,P4,Pain Reliever,Pharma,241,241
+2025-08-26,P4,Pain Reliever,Pharma,243,241
+2025-08-27,P4,Pain Reliever,Pharma,258,241
+2025-08-28,P4,Pain Reliever,Pharma,271,241
+2025-08-29,P4,Pain Reliever,Pharma,274,241
+2025-08-30,P4,Pain Reliever,Pharma,264,241
+2025-08-31,P4,Pain Reliever,Pharma,252,241
+2025-09-01,P4,Pain Reliever,Pharma,240,241
+2025-09-02,P4,Pain Reliever,Pharma,240,241
+2025-09-03,P4,Pain Reliever,Pharma,262,241
+2025-09-04,P4,Pain Reliever,Pharma,280,241
+2025-09-05,P4,Pain Reliever,Pharma,278,241
+2025-09-06,P4,Pain Reliever,Pharma,264,241
+2025-09-07,P4,Pain Reliever,Pharma,250,241
+2025-09-08,P4,Pain Reliever,Pharma,244,241
+2025-09-09,P4,Pain Reliever,Pharma,247,241
+2025-09-10,P4,Pain Reliever,Pharma,258,241
+2025-09-11,P4,Pain Reliever,Pharma,281,241
+2025-09-12,P4,Pain Reliever,Pharma,285,241
+2025-09-13,P4,Pain Reliever,Pharma,268,241
+2025-09-14,P4,Pain Reliever,Pharma,251,241
+2025-09-15,P4,Pain Reliever,Pharma,241,241
+2025-09-16,P4,Pain Reliever,Pharma,245,241
+2025-09-17,P4,Pain Reliever,Pharma,265,241
+2025-09-18,P4,Pain Reliever,Pharma,279,241
+2025-09-19,P4,Pain Reliever,Pharma,285,241
+2025-09-20,P4,Pain Reliever,Pharma,273,241
+2025-09-21,P4,Pain Reliever,Pharma,259,241
+2025-09-22,P4,Pain Reliever,Pharma,240,241
+2025-09-23,P4,Pain Reliever,Pharma,249,241
+2025-09-24,P4,Pain Reliever,Pharma,257,241
+2025-09-25,P4,Pain Reliever,Pharma,275,241
+2025-09-26,P4,Pain Reliever,Pharma,283,241
+2025-09-27,P4,Pain Reliever,Pharma,274,241
+2025-09-28,P4,Pain Reliever,Pharma,255,241
+2025-09-29,P4,Pain Reliever,Pharma,243,241
+2025-09-30,P4,Pain Reliever,Pharma,248,241
+2025-10-01,P4,Pain Reliever,Pharma,269,241
+2025-10-02,P4,Pain Reliever,Pharma,279,241
+2025-10-03,P4,Pain Reliever,Pharma,290,241
+2025-10-04,P4,Pain Reliever,Pharma,276,241
+2025-10-05,P4,Pain Reliever,Pharma,258,241
+2025-10-06,P4,Pain Reliever,Pharma,242,241
+2025-10-07,P4,Pain Reliever,Pharma,253,241
+2025-10-08,P4,Pain Reliever,Pharma,264,241
+2025-10-09,P4,Pain Reliever,Pharma,278,241
+2025-10-10,P4,Pain Reliever,Pharma,287,241
+2025-10-11,P4,Pain Reliever,Pharma,271,241
+2025-10-12,P4,Pain Reliever,Pharma,255,241
+2025-10-13,P4,Pain Reliever,Pharma,247,241
+2025-10-14,P4,Pain Reliever,Pharma,258,241
+2025-10-15,P4,Pain Reliever,Pharma,265,241
+2025-10-16,P4,Pain Reliever,Pharma,281,241
+2025-10-17,P4,Pain Reliever,Pharma,289,241
+2025-10-18,P4,Pain Reliever,Pharma,272,241
+2025-10-19,P4,Pain Reliever,Pharma,260,241
+2025-10-20,P4,Pain Reliever,Pharma,252,241
+2025-10-21,P4,Pain Reliever,Pharma,251,241
+2025-10-22,P4,Pain Reliever,Pharma,271,241
+2025-10-23,P4,Pain Reliever,Pharma,285,241
+2025-10-24,P4,Pain Reliever,Pharma,286,241
+2025-10-25,P4,Pain Reliever,Pharma,277,241
+2025-10-26,P4,Pain Reliever,Pharma,259,241
+2025-10-27,P4,Pain Reliever,Pharma,249,241
+2025-10-28,P4,Pain Reliever,Pharma,254,241
+2025-10-29,P4,Pain Reliever,Pharma,271,241
+2025-10-30,P4,Pain Reliever,Pharma,286,241
+2025-10-31,P4,Pain Reliever,Pharma,282,241
+2025-11-01,P4,Pain Reliever,Pharma,278,241
+2025-11-02,P4,Pain Reliever,Pharma,257,241
+2025-11-03,P4,Pain Reliever,Pharma,250,241
+2025-11-04,P4,Pain Reliever,Pharma,254,241
+2025-11-05,P4,Pain Reliever,Pharma,273,241
+2025-11-06,P4,Pain Reliever,Pharma,286,241
+2025-11-07,P4,Pain Reliever,Pharma,291,241
+2025-11-08,P4,Pain Reliever,Pharma,282,241
+2025-11-09,P4,Pain Reliever,Pharma,266,241
+2025-11-10,P4,Pain Reliever,Pharma,251,241
+2025-11-11,P4,Pain Reliever,Pharma,256,241
+2025-11-12,P4,Pain Reliever,Pharma,271,241
+2025-11-13,P4,Pain Reliever,Pharma,286,241
+2025-11-14,P4,Pain Reliever,Pharma,289,241
+2025-11-15,P4,Pain Reliever,Pharma,274,241
+2025-11-16,P4,Pain Reliever,Pharma,260,241
+2025-11-17,P4,Pain Reliever,Pharma,247,241
+2025-11-18,P4,Pain Reliever,Pharma,261,241
+2025-11-19,P4,Pain Reliever,Pharma,273,241
+2025-11-20,P4,Pain Reliever,Pharma,288,241
+2025-11-21,P4,Pain Reliever,Pharma,290,241
+2025-11-22,P4,Pain Reliever,Pharma,282,241
+2025-11-23,P4,Pain Reliever,Pharma,262,241
+2025-11-24,P4,Pain Reliever,Pharma,254,241
+2025-11-25,P4,Pain Reliever,Pharma,259,241
+2025-11-26,P4,Pain Reliever,Pharma,271,241
+2025-11-27,P4,Pain Reliever,Pharma,287,241
+2025-11-28,P4,Pain Reliever,Pharma,296,241
+2025-11-29,P4,Pain Reliever,Pharma,283,241
+2025-11-30,P4,Pain Reliever,Pharma,263,241
+2025-12-01,P4,Pain Reliever,Pharma,254,241
+2025-12-02,P4,Pain Reliever,Pharma,256,241
+2025-12-03,P4,Pain Reliever,Pharma,275,241
+2025-12-04,P4,Pain Reliever,Pharma,293,241
+2025-12-05,P4,Pain Reliever,Pharma,295,241
+2025-12-06,P4,Pain Reliever,Pharma,291,241
+2025-12-07,P4,Pain Reliever,Pharma,268,241
+2025-12-08,P4,Pain Reliever,Pharma,257,241
+2025-12-09,P4,Pain Reliever,Pharma,258,241
+2025-12-10,P4,Pain Reliever,Pharma,275,241
+2025-12-11,P4,Pain Reliever,Pharma,290,241
+2025-12-12,P4,Pain Reliever,Pharma,289,241
+2025-12-13,P4,Pain Reliever,Pharma,288,241
+2025-12-14,P4,Pain Reliever,Pharma,266,241
+2025-12-15,P4,Pain Reliever,Pharma,255,241
+2025-12-16,P4,Pain Reliever,Pharma,262,241
+2025-12-17,P4,Pain Reliever,Pharma,279,241
+2025-12-18,P4,Pain Reliever,Pharma,292,241
+2025-12-19,P4,Pain Reliever,Pharma,297,241
+2025-12-20,P4,Pain Reliever,Pharma,289,241
+2025-12-21,P4,Pain Reliever,Pharma,268,241
+2025-12-22,P4,Pain Reliever,Pharma,259,241
+2025-12-23,P4,Pain Reliever,Pharma,258,241
+2025-12-24,P4,Pain Reliever,Pharma,275,241
+2025-12-25,P4,Pain Reliever,Pharma,296,241
+2025-12-26,P4,Pain Reliever,Pharma,294,241
+2025-12-27,P4,Pain Reliever,Pharma,288,241
+2025-12-28,P4,Pain Reliever,Pharma,270,241
+2025-12-29,P4,Pain Reliever,Pharma,259,241
+2025-12-30,P4,Pain Reliever,Pharma,261,241
+2025-12-31,P4,Pain Reliever,Pharma,282,241
+2025-01-01,P5,Office Chair,Furniture,191,194
+2025-01-02,P5,Office Chair,Furniture,203,194
+2025-01-03,P5,Office Chair,Furniture,208,194
+2025-01-04,P5,Office Chair,Furniture,200,194
+2025-01-05,P5,Office Chair,Furniture,185,194
+2025-01-06,P5,Office Chair,Furniture,170,194
+2025-01-07,P5,Office Chair,Furniture,175,194
+2025-01-08,P5,Office Chair,Furniture,195,194
+2025-01-09,P5,Office Chair,Furniture,206,194
+2025-01-10,P5,Office Chair,Furniture,217,194
+2025-01-11,P5,Office Chair,Furniture,200,194
+2025-01-12,P5,Office Chair,Furniture,176,194
+2025-01-13,P5,Office Chair,Furniture,173,194
+2025-01-14,P5,Office Chair,Furniture,176,194
+2025-01-15,P5,Office Chair,Furniture,194,194
+2025-01-16,P5,Office Chair,Furniture,208,194
+2025-01-17,P5,Office Chair,Furniture,209,194
+2025-01-18,P5,Office Chair,Furniture,195,194
+2025-01-19,P5,Office Chair,Furniture,181,194
+2025-01-20,P5,Office Chair,Furniture,168,194
+2025-01-21,P5,Office Chair,Furniture,173,194
+2025-01-22,P5,Office Chair,Furniture,192,194
+2025-01-23,P5,Office Chair,Furniture,211,194
+2025-01-24,P5,Office Chair,Furniture,211,194
+2025-01-25,P5,Office Chair,Furniture,196,194
+2025-01-26,P5,Office Chair,Furniture,184,194
+2025-01-27,P5,Office Chair,Furniture,175,194
+2025-01-28,P5,Office Chair,Furniture,174,194
+2025-01-29,P5,Office Chair,Furniture,191,194
+2025-01-30,P5,Office Chair,Furniture,207,194
+2025-01-31,P5,Office Chair,Furniture,208,194
+2025-02-01,P5,Office Chair,Furniture,202,194
+2025-02-02,P5,Office Chair,Furniture,182,194
+2025-02-03,P5,Office Chair,Furniture,173,194
+2025-02-04,P5,Office Chair,Furniture,173,194
+2025-02-05,P5,Office Chair,Furniture,190,194
+2025-02-06,P5,Office Chair,Furniture,209,194
+2025-02-07,P5,Office Chair,Furniture,210,194
+2025-02-08,P5,Office Chair,Furniture,205,194
+2025-02-09,P5,Office Chair,Furniture,182,194
+2025-02-10,P5,Office Chair,Furniture,173,194
+2025-02-11,P5,Office Chair,Furniture,179,194
+2025-02-12,P5,Office Chair,Furniture,188,194
+2025-02-13,P5,Office Chair,Furniture,202,194
+2025-02-14,P5,Office Chair,Furniture,207,194
+2025-02-15,P5,Office Chair,Furniture,204,194
+2025-02-16,P5,Office Chair,Furniture,182,194
+2025-02-17,P5,Office Chair,Furniture,180,194
+2025-02-18,P5,Office Chair,Furniture,175,194
+2025-02-19,P5,Office Chair,Furniture,193,194
+2025-02-20,P5,Office Chair,Furniture,213,194
+2025-02-21,P5,Office Chair,Furniture,218,194
+2025-02-22,P5,Office Chair,Furniture,207,194
+2025-02-23,P5,Office Chair,Furniture,187,194
+2025-02-24,P5,Office Chair,Furniture,176,194
+2025-02-25,P5,Office Chair,Furniture,179,194
+2025-02-26,P5,Office Chair,Furniture,195,194
+2025-02-27,P5,Office Chair,Furniture,207,194
+2025-02-28,P5,Office Chair,Furniture,210,194
+2025-03-01,P5,Office Chair,Furniture,201,194
+2025-03-02,P5,Office Chair,Furniture,184,194
+2025-03-03,P5,Office Chair,Furniture,172,194
+2025-03-04,P5,Office Chair,Furniture,179,194
+2025-03-05,P5,Office Chair,Furniture,196,194
+2025-03-06,P5,Office Chair,Furniture,209,194
+2025-03-07,P5,Office Chair,Furniture,217,194
+2025-03-08,P5,Office Chair,Furniture,198,194
+2025-03-09,P5,Office Chair,Furniture,184,194
+2025-03-10,P5,Office Chair,Furniture,172,194
+2025-03-11,P5,Office Chair,Furniture,172,194
+2025-03-12,P5,Office Chair,Furniture,193,194
+2025-03-13,P5,Office Chair,Furniture,209,194
+2025-03-14,P5,Office Chair,Furniture,217,194
+2025-03-15,P5,Office Chair,Furniture,204,194
+2025-03-16,P5,Office Chair,Furniture,182,194
+2025-03-17,P5,Office Chair,Furniture,180,194
+2025-03-18,P5,Office Chair,Furniture,182,194
+2025-03-19,P5,Office Chair,Furniture,195,194
+2025-03-20,P5,Office Chair,Furniture,209,194
+2025-03-21,P5,Office Chair,Furniture,210,194
+2025-03-22,P5,Office Chair,Furniture,201,194
+2025-03-23,P5,Office Chair,Furniture,189,194
+2025-03-24,P5,Office Chair,Furniture,180,194
+2025-03-25,P5,Office Chair,Furniture,183,194
+2025-03-26,P5,Office Chair,Furniture,193,194
+2025-03-27,P5,Office Chair,Furniture,206,194
+2025-03-28,P5,Office Chair,Furniture,214,194
+2025-03-29,P5,Office Chair,Furniture,198,194
+2025-03-30,P5,Office Chair,Furniture,187,194
+2025-03-31,P5,Office Chair,Furniture,174,194
+2025-04-01,P5,Office Chair,Furniture,177,194
+2025-04-02,P5,Office Chair,Furniture,190,194
+2025-04-03,P5,Office Chair,Furniture,212,194
+2025-04-04,P5,Office Chair,Furniture,213,194
+2025-04-05,P5,Office Chair,Furniture,200,194
+2025-04-06,P5,Office Chair,Furniture,177,194
+2025-04-07,P5,Office Chair,Furniture,175,194
+2025-04-08,P5,Office Chair,Furniture,185,194
+2025-04-09,P5,Office Chair,Furniture,200,194
+2025-04-10,P5,Office Chair,Furniture,209,194
+2025-04-11,P5,Office Chair,Furniture,213,194
+2025-04-12,P5,Office Chair,Furniture,205,194
+2025-04-13,P5,Office Chair,Furniture,183,194
+2025-04-14,P5,Office Chair,Furniture,177,194
+2025-04-15,P5,Office Chair,Furniture,182,194
+2025-04-16,P5,Office Chair,Furniture,199,194
+2025-04-17,P5,Office Chair,Furniture,211,194
+2025-04-18,P5,Office Chair,Furniture,214,194
+2025-04-19,P5,Office Chair,Furniture,201,194
+2025-04-20,P5,Office Chair,Furniture,184,194
+2025-04-21,P5,Office Chair,Furniture,175,194
+2025-04-22,P5,Office Chair,Furniture,181,194
+2025-04-23,P5,Office Chair,Furniture,198,194
+2025-04-24,P5,Office Chair,Furniture,209,194
+2025-04-25,P5,Office Chair,Furniture,220,194
+2025-04-26,P5,Office Chair,Furniture,204,194
+2025-04-27,P5,Office Chair,Furniture,187,194
+2025-04-28,P5,Office Chair,Furniture,174,194
+2025-04-29,P5,Office Chair,Furniture,173,194
+2025-04-30,P5,Office Chair,Furniture,199,194
+2025-05-01,P5,Office Chair,Furniture,214,194
+2025-05-02,P5,Office Chair,Furniture,215,194
+2025-05-03,P5,Office Chair,Furniture,205,194
+2025-05-04,P5,Office Chair,Furniture,189,194
+2025-05-05,P5,Office Chair,Furniture,172,194
+2025-05-06,P5,Office Chair,Furniture,179,194
+2025-05-07,P5,Office Chair,Furniture,199,194
+2025-05-08,P5,Office Chair,Furniture,208,194
+2025-05-09,P5,Office Chair,Furniture,217,194
+2025-05-10,P5,Office Chair,Furniture,201,194
+2025-05-11,P5,Office Chair,Furniture,189,194
+2025-05-12,P5,Office Chair,Furniture,177,194
+2025-05-13,P5,Office Chair,Furniture,176,194
+2025-05-14,P5,Office Chair,Furniture,200,194
+2025-05-15,P5,Office Chair,Furniture,210,194
+2025-05-16,P5,Office Chair,Furniture,214,194
+2025-05-17,P5,Office Chair,Furniture,206,194
+2025-05-18,P5,Office Chair,Furniture,192,194
+2025-05-19,P5,Office Chair,Furniture,175,194
+2025-05-20,P5,Office Chair,Furniture,182,194
+2025-05-21,P5,Office Chair,Furniture,198,194
+2025-05-22,P5,Office Chair,Furniture,215,194
+2025-05-23,P5,Office Chair,Furniture,217,194
+2025-05-24,P5,Office Chair,Furniture,205,194
+2025-05-25,P5,Office Chair,Furniture,186,194
+2025-05-26,P5,Office Chair,Furniture,178,194
+2025-05-27,P5,Office Chair,Furniture,179,194
+2025-05-28,P5,Office Chair,Furniture,189,194
+2025-05-29,P5,Office Chair,Furniture,215,194
+2025-05-30,P5,Office Chair,Furniture,220,194
+2025-05-31,P5,Office Chair,Furniture,199,194
+2025-06-01,P5,Office Chair,Furniture,186,194
+2025-06-02,P5,Office Chair,Furniture,180,194
+2025-06-03,P5,Office Chair,Furniture,188,194
+2025-06-04,P5,Office Chair,Furniture,198,194
+2025-06-05,P5,Office Chair,Furniture,211,194
+2025-06-06,P5,Office Chair,Furniture,217,194
+2025-06-07,P5,Office Chair,Furniture,211,194
+2025-06-08,P5,Office Chair,Furniture,188,194
+2025-06-09,P5,Office Chair,Furniture,176,194
+2025-06-10,P5,Office Chair,Furniture,181,194
+2025-06-11,P5,Office Chair,Furniture,195,194
+2025-06-12,P5,Office Chair,Furniture,214,194
+2025-06-13,P5,Office Chair,Furniture,223,194
+2025-06-14,P5,Office Chair,Furniture,208,194
+2025-06-15,P5,Office Chair,Furniture,189,194
+2025-06-16,P5,Office Chair,Furniture,178,194
+2025-06-17,P5,Office Chair,Furniture,178,194
+2025-06-18,P5,Office Chair,Furniture,201,194
+2025-06-19,P5,Office Chair,Furniture,214,194
+2025-06-20,P5,Office Chair,Furniture,218,194
+2025-06-21,P5,Office Chair,Furniture,217,194
+2025-06-22,P5,Office Chair,Furniture,191,194
+2025-06-23,P5,Office Chair,Furniture,177,194
+2025-06-24,P5,Office Chair,Furniture,182,194
+2025-06-25,P5,Office Chair,Furniture,203,194
+2025-06-26,P5,Office Chair,Furniture,215,194
+2025-06-27,P5,Office Chair,Furniture,214,194
+2025-06-28,P5,Office Chair,Furniture,211,194
+2025-06-29,P5,Office Chair,Furniture,189,194
+2025-06-30,P5,Office Chair,Furniture,186,194
+2025-07-01,P5,Office Chair,Furniture,187,194
+2025-07-02,P5,Office Chair,Furniture,198,194
+2025-07-03,P5,Office Chair,Furniture,219,194
+2025-07-04,P5,Office Chair,Furniture,219,194
+2025-07-05,P5,Office Chair,Furniture,211,194
+2025-07-06,P5,Office Chair,Furniture,192,194
+2025-07-07,P5,Office Chair,Furniture,178,194
+2025-07-08,P5,Office Chair,Furniture,182,194
+2025-07-09,P5,Office Chair,Furniture,203,194
+2025-07-10,P5,Office Chair,Furniture,215,194
+2025-07-11,P5,Office Chair,Furniture,218,194
+2025-07-12,P5,Office Chair,Furniture,206,194
+2025-07-13,P5,Office Chair,Furniture,193,194
+2025-07-14,P5,Office Chair,Furniture,187,194
+2025-07-15,P5,Office Chair,Furniture,181,194
+2025-07-16,P5,Office Chair,Furniture,200,194
+2025-07-17,P5,Office Chair,Furniture,220,194
+2025-07-18,P5,Office Chair,Furniture,220,194
+2025-07-19,P5,Office Chair,Furniture,210,194
+2025-07-20,P5,Office Chair,Furniture,189,194
+2025-07-21,P5,Office Chair,Furniture,182,194
+2025-07-22,P5,Office Chair,Furniture,184,194
+2025-07-23,P5,Office Chair,Furniture,204,194
+2025-07-24,P5,Office Chair,Furniture,220,194
+2025-07-25,P5,Office Chair,Furniture,228,194
+2025-07-26,P5,Office Chair,Furniture,211,194
+2025-07-27,P5,Office Chair,Furniture,193,194
+2025-07-28,P5,Office Chair,Furniture,182,194
+2025-07-29,P5,Office Chair,Furniture,184,194
+2025-07-30,P5,Office Chair,Furniture,202,194
+2025-07-31,P5,Office Chair,Furniture,216,194
+2025-08-01,P5,Office Chair,Furniture,221,194
+2025-08-02,P5,Office Chair,Furniture,214,194
+2025-08-03,P5,Office Chair,Furniture,190,194
+2025-08-04,P5,Office Chair,Furniture,185,194
+2025-08-05,P5,Office Chair,Furniture,190,194
+2025-08-06,P5,Office Chair,Furniture,201,194
+2025-08-07,P5,Office Chair,Furniture,211,194
+2025-08-08,P5,Office Chair,Furniture,219,194
+2025-08-09,P5,Office Chair,Furniture,214,194
+2025-08-10,P5,Office Chair,Furniture,193,194
+2025-08-11,P5,Office Chair,Furniture,179,194
+2025-08-12,P5,Office Chair,Furniture,185,194
+2025-08-13,P5,Office Chair,Furniture,204,194
+2025-08-14,P5,Office Chair,Furniture,219,194
+2025-08-15,P5,Office Chair,Furniture,221,194
+2025-08-16,P5,Office Chair,Furniture,210,194
+2025-08-17,P5,Office Chair,Furniture,192,194
+2025-08-18,P5,Office Chair,Furniture,180,194
+2025-08-19,P5,Office Chair,Furniture,191,194
+2025-08-20,P5,Office Chair,Furniture,201,194
+2025-08-21,P5,Office Chair,Furniture,222,194
+2025-08-22,P5,Office Chair,Furniture,226,194
+2025-08-23,P5,Office Chair,Furniture,214,194
+2025-08-24,P5,Office Chair,Furniture,192,194
+2025-08-25,P5,Office Chair,Furniture,184,194
+2025-08-26,P5,Office Chair,Furniture,187,194
+2025-08-27,P5,Office Chair,Furniture,200,194
+2025-08-28,P5,Office Chair,Furniture,219,194
+2025-08-29,P5,Office Chair,Furniture,219,194
+2025-08-30,P5,Office Chair,Furniture,215,194
+2025-08-31,P5,Office Chair,Furniture,193,194
+2025-09-01,P5,Office Chair,Furniture,184,194
+2025-09-02,P5,Office Chair,Furniture,188,194
+2025-09-03,P5,Office Chair,Furniture,202,194
+2025-09-04,P5,Office Chair,Furniture,220,194
+2025-09-05,P5,Office Chair,Furniture,221,194
+2025-09-06,P5,Office Chair,Furniture,214,194
+2025-09-07,P5,Office Chair,Furniture,190,194
+2025-09-08,P5,Office Chair,Furniture,184,194
+2025-09-09,P5,Office Chair,Furniture,193,194
+2025-09-10,P5,Office Chair,Furniture,200,194
+2025-09-11,P5,Office Chair,Furniture,217,194
+2025-09-12,P5,Office Chair,Furniture,224,194
+2025-09-13,P5,Office Chair,Furniture,213,194
+2025-09-14,P5,Office Chair,Furniture,196,194
+2025-09-15,P5,Office Chair,Furniture,186,194
+2025-09-16,P5,Office Chair,Furniture,190,194
+2025-09-17,P5,Office Chair,Furniture,207,194
+2025-09-18,P5,Office Chair,Furniture,221,194
+2025-09-19,P5,Office Chair,Furniture,223,194
+2025-09-20,P5,Office Chair,Furniture,215,194
+2025-09-21,P5,Office Chair,Furniture,201,194
+2025-09-22,P5,Office Chair,Furniture,184,194
+2025-09-23,P5,Office Chair,Furniture,186,194
+2025-09-24,P5,Office Chair,Furniture,207,194
+2025-09-25,P5,Office Chair,Furniture,219,194
+2025-09-26,P5,Office Chair,Furniture,217,194
+2025-09-27,P5,Office Chair,Furniture,216,194
+2025-09-28,P5,Office Chair,Furniture,194,194
+2025-09-29,P5,Office Chair,Furniture,185,194
+2025-09-30,P5,Office Chair,Furniture,190,194
+2025-10-01,P5,Office Chair,Furniture,205,194
+2025-10-02,P5,Office Chair,Furniture,222,194
+2025-10-03,P5,Office Chair,Furniture,223,194
+2025-10-04,P5,Office Chair,Furniture,215,194
+2025-10-05,P5,Office Chair,Furniture,195,194
+2025-10-06,P5,Office Chair,Furniture,187,194
+2025-10-07,P5,Office Chair,Furniture,191,194
+2025-10-08,P5,Office Chair,Furniture,202,194
+2025-10-09,P5,Office Chair,Furniture,224,194
+2025-10-10,P5,Office Chair,Furniture,223,194
+2025-10-11,P5,Office Chair,Furniture,216,194
+2025-10-12,P5,Office Chair,Furniture,198,194
+2025-10-13,P5,Office Chair,Furniture,191,194
+2025-10-14,P5,Office Chair,Furniture,189,194
+2025-10-15,P5,Office Chair,Furniture,204,194
+2025-10-16,P5,Office Chair,Furniture,221,194
+2025-10-17,P5,Office Chair,Furniture,224,194
+2025-10-18,P5,Office Chair,Furniture,217,194
+2025-10-19,P5,Office Chair,Furniture,192,194
+2025-10-20,P5,Office Chair,Furniture,183,194
+2025-10-21,P5,Office Chair,Furniture,187,194
+2025-10-22,P5,Office Chair,Furniture,209,194
+2025-10-23,P5,Office Chair,Furniture,226,194
+2025-10-24,P5,Office Chair,Furniture,225,194
+2025-10-25,P5,Office Chair,Furniture,214,194
+2025-10-26,P5,Office Chair,Furniture,197,194
+2025-10-27,P5,Office Chair,Furniture,190,194
+2025-10-28,P5,Office Chair,Furniture,188,194
+2025-10-29,P5,Office Chair,Furniture,207,194
+2025-10-30,P5,Office Chair,Furniture,225,194
+2025-10-31,P5,Office Chair,Furniture,227,194
+2025-11-01,P5,Office Chair,Furniture,215,194
+2025-11-02,P5,Office Chair,Furniture,201,194
+2025-11-03,P5,Office Chair,Furniture,179,194
+2025-11-04,P5,Office Chair,Furniture,193,194
+2025-11-05,P5,Office Chair,Furniture,204,194
+2025-11-06,P5,Office Chair,Furniture,217,194
+2025-11-07,P5,Office Chair,Furniture,228,194
+2025-11-08,P5,Office Chair,Furniture,219,194
+2025-11-09,P5,Office Chair,Furniture,198,194
+2025-11-10,P5,Office Chair,Furniture,190,194
+2025-11-11,P5,Office Chair,Furniture,196,194
+2025-11-12,P5,Office Chair,Furniture,211,194
+2025-11-13,P5,Office Chair,Furniture,227,194
+2025-11-14,P5,Office Chair,Furniture,229,194
+2025-11-15,P5,Office Chair,Furniture,216,194
+2025-11-16,P5,Office Chair,Furniture,194,194
+2025-11-17,P5,Office Chair,Furniture,187,194
+2025-11-18,P5,Office Chair,Furniture,189,194
+2025-11-19,P5,Office Chair,Furniture,214,194
+2025-11-20,P5,Office Chair,Furniture,222,194
+2025-11-21,P5,Office Chair,Furniture,227,194
+2025-11-22,P5,Office Chair,Furniture,218,194
+2025-11-23,P5,Office Chair,Furniture,199,194
+2025-11-24,P5,Office Chair,Furniture,193,194
+2025-11-25,P5,Office Chair,Furniture,190,194
+2025-11-26,P5,Office Chair,Furniture,208,194
+2025-11-27,P5,Office Chair,Furniture,221,194
+2025-11-28,P5,Office Chair,Furniture,223,194
+2025-11-29,P5,Office Chair,Furniture,215,194
+2025-11-30,P5,Office Chair,Furniture,199,194
+2025-12-01,P5,Office Chair,Furniture,187,194
+2025-12-02,P5,Office Chair,Furniture,190,194
+2025-12-03,P5,Office Chair,Furniture,204,194
+2025-12-04,P5,Office Chair,Furniture,223,194
+2025-12-05,P5,Office Chair,Furniture,223,194
+2025-12-06,P5,Office Chair,Furniture,219,194
+2025-12-07,P5,Office Chair,Furniture,200,194
+2025-12-08,P5,Office Chair,Furniture,184,194
+2025-12-09,P5,Office Chair,Furniture,192,194
+2025-12-10,P5,Office Chair,Furniture,206,194
+2025-12-11,P5,Office Chair,Furniture,225,194
+2025-12-12,P5,Office Chair,Furniture,232,194
+2025-12-13,P5,Office Chair,Furniture,212,194
+2025-12-14,P5,Office Chair,Furniture,200,194
+2025-12-15,P5,Office Chair,Furniture,189,194
+2025-12-16,P5,Office Chair,Furniture,195,194
+2025-12-17,P5,Office Chair,Furniture,209,194
+2025-12-18,P5,Office Chair,Furniture,222,194
+2025-12-19,P5,Office Chair,Furniture,227,194
+2025-12-20,P5,Office Chair,Furniture,215,194
+2025-12-21,P5,Office Chair,Furniture,204,194
+2025-12-22,P5,Office Chair,Furniture,190,194
+2025-12-23,P5,Office Chair,Furniture,199,194
+2025-12-24,P5,Office Chair,Furniture,209,194
+2025-12-25,P5,Office Chair,Furniture,223,194
+2025-12-26,P5,Office Chair,Furniture,224,194
+2025-12-27,P5,Office Chair,Furniture,213,194
+2025-12-28,P5,Office Chair,Furniture,196,194
+2025-12-29,P5,Office Chair,Furniture,191,194
+2025-12-30,P5,Office Chair,Furniture,195,194
+2025-12-31,P5,Office Chair,Furniture,205,194
