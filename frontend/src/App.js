@@ -9,6 +9,8 @@ import {
 import EventBadges from "./EventBadges";
 import FeaturesUsed from "./FeaturesUsed";
 import StockoutRisk from "./StockoutRisk";
+import DisruptionPanel  from "./DisruptionPanel";
+import OptimizationPanel from "./OptimizationPanel";
 import "./index.css";
 
 
@@ -114,11 +116,12 @@ function App() {
   const [activeTab,        setActiveTab]        = useState("forecast");
   const [trainTime,        setTrainTime]        = useState(null);
   const t0 = useRef(Date.now());
+  const [horizon, setHorizon] = useState(30);
 
   // ── Fetch — unchanged from your original ──
   useEffect(() => {
     t0.current = Date.now();
-    fetch("http://localhost:8000/report")
+    fetch(`http://localhost:8000/report?horizon=${horizon}`)
       .then(r => r.json())
       .then(res => {
         setTimeout(() => {
@@ -139,11 +142,12 @@ function App() {
   const selectedIds = selectedProducts.map(p => p.value);
 
   // ── Chart data — same logic as original ──
-  const chartData = Array.from({ length: 30 }, (_, i) => {
+  const chartData = Array.from({ length: horizon }, (_, i) => {
     let row = { day: `D${i + 1}` };
     selectedIds.forEach(id => { row[id] = Math.round(data.forecasts[id]?.[i] || 0); });
     return row;
   });
+  
 
   // ── Supply plan — same logic as original ──
   const handleGeneratePlan = () => {
@@ -152,12 +156,13 @@ function App() {
       const p        = data.products.find(x => x.product === id);
       const forecast = data.forecasts[id];
       const avg      = forecast.reduce((a,b)=>a+b,0) / forecast.length;
+      // console.log("avg",avg);
       const stock    = p.current_stock;
-      const safety   = avg * 1.2;
+      const safety   = avg * 30;
       let action, qty, risk;
       if (stock < safety) {
         action = "Increase Inventory"; qty = Math.round(safety - stock); risk = "High demand expected";
-      } else if (stock > avg * 1.5) {
+      } else if (stock > safety * 1.5) {
         action = "Reduce Inventory";  qty = 0; risk = "Overstock risk";
       } else {
         action = "Maintain Inventory"; qty = 0; risk = "Stable demand";
@@ -228,6 +233,8 @@ function App() {
             { key:"accuracy", icon:"🎯", label:"Model Accuracy"  },
             { key:"supply",   icon:"📦", label:"Supply Plan"     },
             { key:"model",    icon:"🧠", label:"Model Details"   },
+            { key:"disruptions", icon:"⚠️", label:"Disruptions"},
+            { key:"optimize",    icon:"⚡", label:"Optimize" },
           ].map(item => (
             <button key={item.key} onClick={() => setActiveTab(item.key)} style={{
               width:"100%", display:"flex", alignItems:"center", gap:9,
@@ -592,6 +599,8 @@ function App() {
             </div>
           </div>
         )}
+        {activeTab === "disruptions" && <DisruptionPanel />}
+        {activeTab === "optimize"    && <OptimizationPanel />}
       </div>
     </div>
   );
